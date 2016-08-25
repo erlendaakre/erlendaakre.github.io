@@ -64,6 +64,14 @@ layout: default
 
         {% include previousAndNext.html %}
 
+	<ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ferlendaakre.github.io&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="/assets/images/Facebook.png"></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Ferlendaakre.github.io&text=:%20http%3A%2F%2Ferlendaakre.github.io" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="/assets/images/Twitter.png"></a></li>
+  <li><a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Ferlendaakre.github.io&t=&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><img alt="Post to Tumblr" src="/assets/images/Tumblr.png"></a></li>
+  <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Ferlendaakre.github.io&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="/assets/images/Reddit.png"></a></li>
+  <li><a href="mailto:?subject=&body=:%20http%3A%2F%2Ferlendaakre.github.io" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img alt="Send email" src="/assets/images/Email.png"></a></li>
+</ul>
+
         <h2 id="comments">Comments</h2>
         {% include comments.html %}
 
