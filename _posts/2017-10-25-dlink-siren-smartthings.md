@@ -3,7 +3,6 @@ layout: post
 title:  "D-Link DCH-Z510 Siren with Smartthings"
 categories: home-automation
 tags: smartthings security alarm home home-automation smarthome 
-excerpt: Getting a D-Link Z-wave siren working with smartthings
 ---
 I just got my D-Link DCH-Z510 Siren and trying to set up a rudimentary alarm system by connecting it straight to smartthings (not using any D-Link apps or products.
 
