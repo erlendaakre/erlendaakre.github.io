@@ -11,6 +11,7 @@ Anyway, as I’m about to exit a roundabout, the rear wheel looses it’s grip a
 So there I was, sliding sideways knowing all to well what was about to happen, and as the crablike movement of the scooter slowed it down, the rear tire finally got a hold of the road again. This of course made the scooter throw me off like the angry little plastic pony it is.
 
 ![scooter accident](images/2008-scooter-accident.png)
+
 *“Artist” rendering of the accident*
 
 So I flew trough the air about a meter or two, hit the road elbow first.  Luckily the Road broke my fall, and seeing that I was wearing a full motorcycle dress, I could just get up and drive on.
