@@ -2,7 +2,7 @@
 layout: post
 title:  "New Computer"
 categories: gaming
-tags: computer hardware gaming
+tags: computer hardware gaming waybackmachine
 ---
 
 I used my shiny new credit card to order myself a brand new computer today :) Just ordered the computer, will keep my old screen/keyboard mouse.
