@@ -8,4 +8,6 @@ Pinky was away with Anne and Erik this week, at the RoseIldern ferret show in Mo
 
 She came back with two prices (Second place in her category, and BEST albino/white in the entire show with around 200 ferrets)
 
+![Pinky](images/2007-pinky-swag.jpg)
+
 She also won some swag (a nice glass thropy for best albino, kibbles, toys and hammocks)
