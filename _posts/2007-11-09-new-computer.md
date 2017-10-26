@@ -7,7 +7,7 @@ tags: computer hardware gaming waybackmachine
 
 I used my shiny new credit card to order myself a brand new computer today :) Just ordered the computer, will keep my old screen/keyboard mouse.
 
-###Specs:
+#### Specs
 * Cooler Master Centurion 534 tower
 * Corsair Powersupply 620W
 * Asus M2N32-SLI Deluxe motherboard
