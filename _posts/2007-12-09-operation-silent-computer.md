@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Computer"
+title:  "Operation silent computer"
 categories: diy computer
 tags: computer hardware gaming diy waybackmachine
 ---
