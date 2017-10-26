@@ -3,7 +3,6 @@ layout: post
 title:  "New blog, jekyll and github"
 categories: software
 tags: jekyll blog git github
-excerpt: Time to get blogging again
 ---
 
 I used to have a blog back in the days. Using [Wordpress](http://www.wordpress.org) to host my own site, custom theme and plugins and all sorts of nifty stuff. Sadly most of the content is long lost (I might have a look and see if I have a backup export somewhere, if no there is always the [WayBack machine](http://web.archive.org/) which I might use to recover a post or two.
