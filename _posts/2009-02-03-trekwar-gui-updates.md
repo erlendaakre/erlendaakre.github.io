@@ -9,6 +9,7 @@ Recently much of my spare time programming has gone to giving the [Trekwar clien
 Now I’ve managed to get most of what I broke, working again (Research and Starsystem Control), and I’ve added a glasspane that shows up and prevents the clicking of buttons (and thus creating a weird state of the client) while each tick is being processed by the server.
 
 ![fetching data from server](images/2009-trekwar_feb.jpg)
+
 *Currently the test galaxy is 100×100 tiles and takes about 0.5 seconds to load to cli*
 
 
