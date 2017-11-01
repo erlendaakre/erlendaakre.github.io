@@ -10,7 +10,7 @@ Ships are no longer static objects with fixed attributes (weapon, shields, armor
 
 All ships are no based on a specific hull, which has some base armor and crap, + X number of slots you can put equiptment in. Below is the starting ship of all factions in the game:
 
-![Ship slots](images/2009-trekwar_slots.jpg)
+![Ship slots](/images/2009-trekwar_slots.jpg)
 
 *If you noticed that this is the design of a Maquis raider, give yourself a cookie!*
 
@@ -18,7 +18,7 @@ I got lot of Starship components to add, and so far I’ve just added ‘Warp Co
 
 One new thing I implemented today was ship speeds. Unlike in Civilizzation / Birth of the Federation, where units can only move 1 or 2 tiles each turn. Ships in Trekwar can have a speed of 1.0 (which lets it always move 1 tile each turn) or 0.7 like the colonization ship in the screenshot below:
 
-![Ship movement speed](images/2009-trekwar_race.jpg)
+![Ship movement speed](/images/2009-trekwar_race.jpg)
 
 The upper most ship is a scoutship with a speed of 1.0
 

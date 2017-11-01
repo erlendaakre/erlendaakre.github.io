@@ -14,7 +14,7 @@ It is now possible to move your fleets around the map, Client allows you to pres
 ### Saturday
 Fixed a bug where the local copy of the move orders where not updated properly, implemented the starsystem controll window:
 
-![Trekwar starsystem control window](images/2008-trekwar-systemview.jpg)
+![Trekwar starsystem control window](/images/2008-trekwar-systemview.jpg)
 
 ### Sunday
 Implemented build orders, now possible to build structures on planets. Queue not implemented yet.
@@ -24,4 +24,4 @@ On the airplane back home I implemented the asteroid belts (high-altitude progra
 
 Notice the beautiful asteroids drawn in mspaint on my laptop’s touch pad :)
 
-![Trekwar map and asteroids](images/2008-trekwar-austria.jpg)
+![Trekwar map and asteroids](/images/2008-trekwar-austria.jpg)

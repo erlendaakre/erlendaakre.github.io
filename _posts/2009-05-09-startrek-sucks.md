@@ -9,7 +9,7 @@ Last night I saw the new Star Trek movie, I’ve seen all the episodes of all th
 
 Remembering how much Nemesis sucked, I was determined to have no expectations to the movie, just in case it turned out to be crap. But around 1 week ago I got to see like 25 minutes of the movie while at Fedcon, and then I got pretty exited, it looked really good and funny.
 
-![Startrek 2009](images/2009-startrek-movie.png)
+![Startrek 2009](/images/2009-startrek-movie.png)
 
 Unfortunately those 25 minutes contained everything that was good in the movie, and the rest 1.5 hours **SUCKED**.
 
