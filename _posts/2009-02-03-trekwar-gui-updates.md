@@ -2,7 +2,7 @@
 layout: post
 title:  "Trekwar GUI updates"
 categories: coding gamedev
-tags: computer gaming trekwar gamedev software java waybackmachine
+tags: computer gaming trekwar gamedev software java waybackmachine startrek
 ---
 Recently much of my spare time programming has gone to giving the [Trekwar client](http://www.trekwar.org) a graphical overhaul.
 

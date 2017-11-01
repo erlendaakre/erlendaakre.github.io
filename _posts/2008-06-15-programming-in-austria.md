@@ -2,7 +2,7 @@
 layout: post
 title:  "Programming in Austria"
 categories: coding gamedev
-tags: computer gaming trekwar gamedev software java waybackmachine
+tags: computer gaming trekwar gamedev software java waybackmachine startrek
 ---
 I’ve had this post as a Draft ever since I came back from Austria (which is a weird-ass country by the way), mainly due to the fact that I managed to change ssh port on my server without changing the firewall :)
 

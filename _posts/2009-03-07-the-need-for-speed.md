@@ -2,7 +2,7 @@
 layout: post
 title:  "The need for speed"
 categories: coding gamedev
-tags: computer gaming trekwar gamedev software java waybackmachine
+tags: computer gaming trekwar gamedev software java waybackmachine startrek
 ---
 I finally got around to implement the new ship system for the [Trekwar](http://www.trekwar.org) game.
 
