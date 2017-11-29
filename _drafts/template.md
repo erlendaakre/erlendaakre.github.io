@@ -8,8 +8,8 @@ tags: computer hardware gaming waybackmachine
 NEXT UP FROM WAYBACK MACHINE:
 http://web.archive.org/web/20090715000000*/erlendaakre.com
 
-2009 - AUG 3
+2009 - DEC 25
 
-NEXT = 'new camera' (merge with 'nature photography') get hi res pictures from picasa.
+NEXT = Time To move
 
-LAST = THE MAC MINI
+LAST = Focalprice engrish
