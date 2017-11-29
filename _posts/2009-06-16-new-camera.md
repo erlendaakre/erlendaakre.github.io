@@ -2,7 +2,7 @@
 layout: post
 title:  "New Camera"
 categories: misc
-tags: photography waybackmachine
+tags: photography ferret animal flower shooting canon camera dslr waybackmachine
 ---
 
 I got a new camera today, a [Canon EOS 1000D](http://en.wikipedia.org/wiki/Canon_EOS_1000D) SLR.
