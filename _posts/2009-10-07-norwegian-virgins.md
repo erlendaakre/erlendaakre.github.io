@@ -5,6 +5,6 @@ categories: funny
 tags: funny torrent waybackmachine
 ---
 
-![btjunkie search result](/images/2009-btjunkie.jpg)
+![btjunkie search result](/images/2009-btjunkie.png)
 
 :D
