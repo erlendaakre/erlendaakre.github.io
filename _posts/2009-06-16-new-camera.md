@@ -24,12 +24,15 @@ It was pretty reasonable and  the pictures was way better than the old compact d
 4) Buffy posing for the camera
 ![ferret](/images/2009-buffy.jpg)
 
-5) Bherd!
+5) A bullet going through a toy RC car
+![rc car diveby](/images/2009-bullet-car.jpg)
+
+6) Bherd!
 ![bird](/images/2009-bird.jpg)
 
-6) Bumblebee
+7) Bumblebee
 ![bumblebee](/images/2009-bumblebee.jpg)
 
-7) A sleepy pinky
+8) A sleepy pinky
 ![ferret yawning](/images/2009-pinky.jpg)
 
