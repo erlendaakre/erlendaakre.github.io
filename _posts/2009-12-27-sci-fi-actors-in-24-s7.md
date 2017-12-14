@@ -38,9 +38,50 @@ Star Trek Voyager: Annorax in [Year of Hell](http://memory-alpha.wikia.com/wiki/
 #### Jeffrey Nordling
 ![Jeffrey Nordling](/images/2009-24-nordling.jpg)
 
-24: Larry Moss
+24: Larry Moss  
 Star Trek DS9: Thana Los in [Past Prologue](http://memory-alpha.org/en/wiki/Past_Prologue_%28episode%29)
 
+#### Mark Kiely
+![Mark Kiely](/images/2009-24-markkiely.jpg)
+
+24: Edward Vossler  
+Star Trek Voyager: Lasca in [Non Sequitur](http://memory-alpha.wikia.com/wiki/Non_Sequitur_%28episode%29)
+
+#### Nick Toth
+![Nick Toth](/images/2009-24-nicktoth.jpg)
+
+24: Edwin Ross  
+Babylon 5: Exeter in [The Deconstruction of Fallen Stars](https://en.wikipedia.org/wiki/The_Deconstruction_of_Falling_Stars)
+
+#### Annie Wersching
+![Annie Wersching](/images/2009-24-anniewersching.jpg)
+
+24: Renee Walker (seriously hot FBI agent)  
+Star Trek Enterprise: Liana in [Oasis](http://memory-alpha.wikia.com/wiki/Oasis_%28episode%29)
+
+#### Colm Feore
+![Colm Feore](/images/2009-24-colmfeore.jpg)
+
+24: Henry Tailor  
+Battlestar Galactica: President Adar (First episode only)
+
+#### Bob Gunton 
+![Bob Gunton](/images/2009-24-bobgunton.jpg)
+
+24: Ethan Kanin  
+Star Trek TNG: Capt. Benjamin Maxwell in [The Wounded](http://memory-alpha.org/en/wiki/The_Wounded_%28episode%29)
+
+#### Ryan Cutrona
+![Ryan Cutrona](/images/2009-24-ryancutrona.jpg)
+
+24: Admiral John Smith  
+Babylon 5: Sgt. Major Plug in [GROPOS](http://en.wikipedia.org/wiki/GROPOS)
+
+#### John Rosenfeld
+![John Rosenfeld](/images/2009-24-johnrosenfeld.jpg)
+
+24: Kevin Aldridge  
+Star Trek Enterprise: Mark Latrelle in [Silent Enemy](http://memory-alpha.org/en/wiki/Silent_Enemy_%28episode%29)  
 
 
-
+It’s also worth noting that co-executive producers and writers of 24 Redemption and season 7 is none other than Brannon Braga and Manny Coto, noted writers/producers from Star Trek TNG / Voyager / Enterprise.
