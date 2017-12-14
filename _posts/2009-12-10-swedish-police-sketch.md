@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Swedish police sketch"
-categories: funny 
+categories: funny
 tags: police sketch funny waybackmachine
 --
 

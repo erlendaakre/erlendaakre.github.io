@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Mexican Christmas gift standoff"
-categories: misc 
+categories: misc
 tags: christmas rant gift funny waybackmachine
 --
 
