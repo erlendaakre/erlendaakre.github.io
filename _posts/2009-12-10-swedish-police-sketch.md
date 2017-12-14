@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Swedish police sketch"
+title: "Swedish police sketch"
 categories: funny
 tags: police sketch funny waybackmachine
---
+---
 
 Wow, I just saw this in the paper, apparently the Swedish police uses paint to catch killers.-
 

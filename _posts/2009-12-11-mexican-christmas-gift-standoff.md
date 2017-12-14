@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "The Mexican Christmas gift standoff"
+title: "The Mexican Christmas gift standoff"
 categories: misc
 tags: christmas rant gift funny waybackmachine
---
+---
 
 I hate Christmas presents.
 

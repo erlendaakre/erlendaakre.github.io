@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sci-fi actors in 24 Season 7"
+title: "Sci-fi actors in 24 Season 7"
 categories: tv
 tags: tv sci-fi stargate stargate-universe 24 actors star-trek babylon-5 battlestar-galactica waybackmachine
---
+---
 
 Just gotten around 7 episodes into season 7 of 24, and really enjoying it. One thing I particularly enjoy is the plethora of sci-fi actors cropping up:
 

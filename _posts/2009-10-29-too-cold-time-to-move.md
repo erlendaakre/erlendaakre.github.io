@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Too cold.. Time to move"
+title: "Too cold.. Time to move"
 categories: misc 
 tags: norway maps funny waybackmachine
 ---

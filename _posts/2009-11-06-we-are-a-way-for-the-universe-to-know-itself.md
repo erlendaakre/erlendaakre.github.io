@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We are a way for the universe to know itself"
+title: "We are a way for the universe to know itself"
 categories: science
 tags: science quotes sci-fi tv astrophysics carl-sagan babylon-5 minbari cosmology waybackmachine
 ---

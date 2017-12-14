@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stargate universe SUCKS"
+title: "Stargate universe SUCKS"
 categories: tv
 tags: tv sci-fi stargate stargate-universe waybackmachine
 ---
