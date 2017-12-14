@@ -27,7 +27,7 @@ When you were young any 10$ brightly colored plastic toy was great and all gifts
 #### Surprise gifters!
 This is the absolute worst, some ninny you haven’t seen in a year just popping up at the door with a gift and a big smile. WTF? Why is this person you haven’t seen or talked to in ages standing in your doorway like a complete muppet? You had no idea this bastard was going to give you a gift, so obviously you have nothing for him/her. So what do you do? you just pretend you haven’t gotten or wrapped that persons gift yet and that you will deliver it later, followed by an agonizing trip to the city to desperately find some last minute gift in the worst Christmas rush imaginable. That’s a nice stressful way to spend the holiday.
 
-####The generic gift
+#### The generic gift
 If you don’t want to add to your health problems with the stress of getting a gift for the surprise gifter mentioned above, you’ve probably got one or two generic gifts on standby out of sight of the front door. This gift is wrapped up and ready to go in the 3 seconds it takes you to write down the name of the schmuck in your hallway. The gift itself is so generic you could give it to anyone. Usually it’s something totally lame like a box of chocolate, flowers or Christmas ornaments.
 
 #### The solution
