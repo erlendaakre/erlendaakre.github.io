@@ -10,6 +10,7 @@ http://web.archive.org/web/20090715000000*/erlendaakre.com
 
 2010 - MAR 2
 
-NEXT = Ze movies!
+NEXT = Ze movies! + STO update + Trekwar sensor system + google maps api + I love vps.net
+
 
 LAST = new server
