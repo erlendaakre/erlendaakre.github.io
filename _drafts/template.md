@@ -8,13 +8,7 @@ tags: computer hardware gaming waybackmachine
 NEXT UP FROM WAYBACK MACHINE:
 http://web.archive.org/web/20090715000000*/erlendaakre.com
 
-2010 - APR 13
 
-NEXT = Trekwar cargo system   +   xmpp     +   debug poem    +   oups     +   road slippery when wet
-
-LAST = I love vps.net
-
------
 
 2010 - APR 26
 
