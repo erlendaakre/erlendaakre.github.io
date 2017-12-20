@@ -8,9 +8,20 @@ tags: computer hardware gaming waybackmachine
 NEXT UP FROM WAYBACK MACHINE:
 http://web.archive.org/web/20090715000000*/erlendaakre.com
 
-2010 - MAR 2
+2010 - APR 13
 
-NEXT = Ze movies! + STO update + Trekwar sensor system + google maps api + I love vps.net
+NEXT = Trekwar cargo system   +   xmpp     +   debug poem    +   oups     +   road slippery when wet
 
+LAST = I love vps.net
 
-LAST = new server
+-----
+
+2010 - APR 26
+
+NEXT = A bit of nostalgia   +   This image needs no caption
+-------
+
+2010 - SEP 03
+
+NEXT = carl sagan picture (IF I STILL HAVE PICTURE) + Chocolate drink blind testing + infrared thermometer + google analytics (big tits)  +  astrology  +  coloring stuff
+
