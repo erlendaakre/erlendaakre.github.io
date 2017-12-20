@@ -9,7 +9,8 @@ NEXT UP FROM WAYBACK MACHINE:
 http://web.archive.org/web/20090715000000*/erlendaakre.com
 
 
-2010 - SEP 03
+2010 - NOV 15
 
-google analytics (big tits)  +  astrology  +  coloring stuff
+LAST: Astrology
 
+NEXT: Trekwar fog of war + I is old + Fallout new vegas + neil degrasse tyson + carl sagan day
