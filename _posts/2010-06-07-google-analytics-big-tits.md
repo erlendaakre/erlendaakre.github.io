@@ -38,7 +38,7 @@ I just realized that due to it’s questionable content, this post will undoubte
 
 ![Julia Benson](/images/2010-benson2.jpg)
 
-=== Some other weird searches with only 1 hit ===
+### Some other weird searches with only 1 hit
 
 ***why do the shields on the enterprise suck?***  
 I have no idea, the real question is why would somebody write that phrase in a search engine?
