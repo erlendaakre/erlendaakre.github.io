@@ -13,22 +13,22 @@ variations of *“new star trek movie sucks”* – **1800 hits**
 === Big tits! ===
 So far so good, at least there are a few people out there with good taste, but it is when you get down to the more unique searches, those with only a few hits that you find the weird stuff.. Apparently even tough Stargate Universe sucks, somebody on the show has huge (or big) tits :D
 
-*Stargate universe big tits* - **13**
-*stargate universe girl with big tits* - **6**
-*“stargate universe” “big tits”* - **2**
-*big tits on sgu* - **2**
-*big tits stargate universe* -**3**
-*girl with big tits on stargate universe* - **1**
-*actress with the huge tits on stargate universe* - **1**
-*who is the girl with the big tits on stargate universe?* - **1**
-*biggest tits on stargate universe* - **1**
-*chick with huge tits on stargate universe* - **1**
-*sgu stargate universe big tits* - **1**
-*star gate universe big tits* - **1**
-*stargate universe huge tits* - **1**
-*sgu kills off big tits?* - **1**
-*stargate universe chick with huge tits* - **1**
-*stargate universe chick with big tits* - **5**
+* *Stargate universe big tits* - **13**
+* *stargate universe girl with big tits* - **6**
+* *“stargate universe” “big tits”* - **2**
+* *big tits on sgu* - **2**
+* *big tits stargate universe* -**3**
+* *girl with big tits on stargate universe* - **1**
+* *actress with the huge tits on stargate universe* - **1**
+* *who is the girl with the big tits on stargate universe?* - **1**
+* *biggest tits on stargate universe* - **1**
+* *chick with huge tits on stargate universe* - **1**
+* *sgu stargate universe big tits* - **1**
+* *star gate universe big tits* - **1**
+* *stargate universe huge tits* - **1**
+* *sgu kills off big tits?* - **1**
+* *stargate universe chick with huge tits* - **1**
+* *stargate universe chick with big tits* - **5**
 
 After some research, I can only assume they are looking for pictures of Julia Benson:
 
@@ -40,14 +40,14 @@ I just realized that due to it’s questionable content, this post will undoubte
 
 === Some other weird searches with only 1 hit ===
 
-*why do the shields on the enterprise suck?*
-- I have no idea, the real question is why would somebody write that phrase in a search engine?
+***why do the shields on the enterprise suck?***  
+I have no idea, the real question is why would somebody write that phrase in a search engine?
 
-**mexican knick knacks**
-- I bet this guy was especially disappointed with my blog :( 
+***mexican knick knacks***  
+I'm sorry this visitor didn't find what he/she was looking for on this blog :(
 
-why are everyone in stargate universe morons?
-- I… Don’t… Know… 
+***why are everyone in stargate universe morons?***  
+I… Don’t… Know… 
 all video editing software sucks and makes no sense at all
 - You should stick to pictures, they are simpler to wrap your head around
 best brand donkey balls chocolates
