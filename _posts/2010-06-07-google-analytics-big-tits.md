@@ -47,16 +47,22 @@ I have no idea, the real question is why would somebody write that phrase in a s
 I'm sorry this visitor didn't find what he/she was looking for on this blog :(
 
 ***why are everyone in stargate universe morons?***  
-I… Don’t… Know… 
-all video editing software sucks and makes no sense at all
-- You should stick to pictures, they are simpler to wrap your head around
-best brand donkey balls chocolates
-- I’m afraid to even comment on this one :( 
-fedcon convention swine flu
-- Hah! I see I was not the only one worried about swine flu duing fedcon 2009. Not so much worried about catching it, as guests not showing up
-feed trondheim
-- I’m definitely going to be keeping an eye out for starving children
-jello shot launcher
-- Let me know if you find one!
-ms paint police
-- These guys should have a SWAT unit!
+I... Don’t... Know...
+
+***all video editing software sucks and makes no sense at all***  
+We've all been there bro.
+
+***best brand donkey balls chocolates***  
+I’m afraid to even comment on this one :o
+
+***fedcon convention swine flu***
+Hah! I see I was not the only one worried about swine flu duing fedcon 2009 (Not so much worried about catching it, as guests not showing up)
+
+***feed trondheim***
+I’m definitely going to be keeping an eye out for starving children
+
+***jello shot launcher***
+Let me know if you find one!
+
+***ms paint police***
+If only there was such a thing.
