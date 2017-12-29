@@ -32,8 +32,6 @@ The paper suggests that earthquakes can be caused by the moon being to close to 
 
 The USGS defines a strong earthquake as anything with a magnitude of 6.0 or above (Christchurch was 6.3). On average there 150 earthquake like this yearly.
 
-![moon gravity change](/images/2011-moon-gravity.gif)
-
 So the chance for a strong earthquake to happen on march 19th, is 41%.
 
 If we however include the day before and after, the chance increases to 79%.
