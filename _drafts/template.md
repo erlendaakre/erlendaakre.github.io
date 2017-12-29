@@ -9,8 +9,8 @@ NEXT UP FROM WAYBACK MACHINE:
 http://web.archive.org/web/20090715000000*/erlendaakre.com
 
 
-2010 - NOV 15
+2011 - MAR 18
 
-LAST: Astrology
+LAST: supermoon
 
-NEXT: Trekwar fog of war + I is old + Fallout new vegas + neil degrasse tyson + carl sagan day
+NEXT: Royally stupid
