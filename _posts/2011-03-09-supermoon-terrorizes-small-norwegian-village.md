@@ -43,6 +43,8 @@ If we where to include 2 days before and after, we’re up to 92%.
 So it’s pretty certain that a big earthquake will take place on or around march 19th, and it’s pretty certain crazy doomsday nuts will say there is a connection between that statistically predicted earthquake and the evil moon. ~~The chance of the quake hitting a densely populated area however is much smaller, so maybe the nuts won’t notice it~~
 
 #### update 11.03.2011
+![earthquake](/images/2011-earthquake.jpg)
+
 As statistics predicted a large earthquake did occur. It did hit a densely populated area, and caused a huge tsunami that hit the northwestern coast of Japan causing massive damages and deaths :(
 
 The newspaper actually takes this flawed thinking to a whole new level, posting a picture from a earthquake/tsunami in Indonesia, making the point that it “happened only 2 weeks before a supermoon” (oooouh spooky!!).
