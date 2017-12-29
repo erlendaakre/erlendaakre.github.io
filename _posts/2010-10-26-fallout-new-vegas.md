@@ -2,7 +2,7 @@
 layout: post
 title: "Fallout New Vegas"
 categories: gaming 
-tags: gaming lucasarts adventure lechuck monkey-island adventure-game waybackmachine
+tags: gaming fallout fallout-new-vegas mr-house music soundtrack veronica felicia-day waybackmachine
 ---
 
 I’ve been pretty busy playing Fallout New Vegas since it released Friday, have played around 20 hours and just recently got Veronica (voiced by Felicia Day) as a companion and made my way to the Strip to talk with Mr. House (voiced by Rene Auberjonois), it’s like being in geek heaven.
