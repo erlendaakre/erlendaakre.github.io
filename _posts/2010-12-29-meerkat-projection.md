@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Danger Pinky"
+title:  "Meerkat projection"
 categories: funny 
 tags: animal meerkat geology mercator-projection photoshop gimp waybackmachine
 ---
