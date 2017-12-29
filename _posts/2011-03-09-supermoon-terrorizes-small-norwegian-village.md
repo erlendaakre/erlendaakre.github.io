@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Jim appreciation day"
+title: "Supermoon terrorizes small norwegian village"
 categories: science
-tags: waybackmachine
+tags: science skepticism conspiration-theory correlation astronomy earth moon earthquake tsunami statistics phil-plait news waybackmachine
 ---
 
 Today I saw a particularly silly story in the local Newspaper: [“Supermånen Sprer frykt”](https://www.adressa.no/nyheter/innenriks/article1601206.ece) or “Supermoon spreads fear”.
