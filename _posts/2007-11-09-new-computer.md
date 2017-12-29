@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Computer"
-categories: gaming
+categories: computer gaming
 tags: computer hardware gaming waybackmachine
 ---
 
