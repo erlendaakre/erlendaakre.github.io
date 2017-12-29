@@ -7,7 +7,7 @@ tags: computer hardware samsung monitor syncmaster not-optimum-mode benq 3d-visi
 
 It’s been over 3 years since the [last upgrade](2007/11/09/new-computer), so this Xmas there was no postponing it. Time for another computer upgrade.
 
-##### Upgrade
+### Upgrade
 * MSI P55-CD53, Socket-1156 Motherboard
 * Intel i5 Quad Processor i5-760 2.8 ghz
 * 8 GB RAM
@@ -15,7 +15,7 @@ It’s been over 3 years since the [last upgrade](2007/11/09/new-computer), so t
 * Gainward GeForce GTX 460
 
 
-**Damn you Samsung!**
+#### Damn you Samsung!
 
 After doing this, I found to my dismay that the stupid Samsung Syncmaster 225bw started to act up, with the error message “Not Optimum mode” blinking.
 
