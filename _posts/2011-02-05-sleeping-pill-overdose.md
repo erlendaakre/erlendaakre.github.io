@@ -5,7 +5,7 @@ categories: science
 tags: science homeopathy skepticism sleeping-pill overdose drug waybackmachine
 ---
 
-Today was the international 10:23 campaign. Thousands of people with a bias towards reality took huge overdoses of Homeopathic “Medicine”.
+Today was the international [10:23](http://www.1023.org.uk) campaign. Thousands of people with a bias towards reality took huge overdoses of Homeopathic “Medicine”.
 
 I took around 70 (3500% overdose) homeopathetic sleeping pills today, if I had taken real sleeping medicine I would probably be dead or dying about now.
 
