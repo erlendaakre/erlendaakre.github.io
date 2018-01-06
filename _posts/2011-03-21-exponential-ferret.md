@@ -9,11 +9,20 @@ Last night one of the ferrets just stood idly on the floor for about half a minu
 
 #### 0 minutes 
 ![Exponential ferret minute 1](/images/2011-ferret_0.jpg)
-A single ferret, concentrating extremely hard.
+
+A single ferret, just standing there.. Looking right at you.
 
 #### 1 minute
-![Exponential ferret minute 1](/images/2011-ferret_0.jpg)
-![Exponential ferret minute 1](/images/2011-ferret_0.jpg)
+![Exponential ferret minute 1](/images/2011-ferret_1.jpg)
+
+Wow, what the heck? did you see that? that ferret totally just duplicated!
+
+### 3 minutes
+![Exponential ferret minute 1](/images/2011-ferret_3.jpg)
+
+Sweet, 8 ferrets. this is awesome!
+
+
 ![Exponential ferret minute 1](/images/2011-ferret_0.jpg)
 ![Exponential ferret minute 1](/images/2011-ferret_0.jpg)
 
