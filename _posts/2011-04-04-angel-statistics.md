@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome back beard"
+title: "Angel statistics"
 categories: tv
 tags: sci-fi joss-whedon angel buffy tv rating statistics waybackmachine
 ---
