@@ -23,7 +23,7 @@ So far I’ve made some amazing scientific discoveries for mankind:
 * The paint from a can of spray paint (the kind used for cars/motorcycles) is quite cold: 0-1 c
 * When using quick epoxy, the chemical reaction from mixing the base and primer makes the epoxy 35 c (in a 14 c ambient temperature).
 
-=== Tapwater temperature ===
+### Tapwater temperature
 
 ![Tapwater temperature](/images/2010-tapwater-temp.jpg)
 
