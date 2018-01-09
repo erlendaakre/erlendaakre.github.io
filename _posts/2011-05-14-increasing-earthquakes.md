@@ -2,7 +2,7 @@
 layout: post
 title: "Increasing earthquakes?"
 categories: science
-tags: science skepticism conspiration-theory correlation earth earthquake statistics waybackmachine
+tags: science skepticism conspiration-theory correlation earth earthquake statistics usgs frequency geology java code waybackmachine
 ---
 
 Are earthquakes increasing in strength or frequency?
@@ -87,6 +87,9 @@ Frequency of earthquakes from 1900 to 2010
 
 Earthquakes by month:
 ![Earthquakes by month](/images/2011-earthquake-month.png)
+
+Earthquakes by day of month:
+![Earthquakes by day of month](/images/2011-earthquake-day.png)
 
 Earthquakes by time of day:
 ![Earthquake by time of day](/images/2011-earthquake-hour.png)
