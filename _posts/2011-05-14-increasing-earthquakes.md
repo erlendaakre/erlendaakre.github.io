@@ -83,13 +83,13 @@ A scientist at the USGS was kind enough to send me a [datafile](/files/2011/merg
 
 Frequency of earthquakes from 1900 to 2010
 
-![Earthquakes 1900 to 2010](/images/2011-earthquakes.png)
+![Earthquakes 1900 to 2010](/images/2011-earthquake.jpg)
 
 Earthquakes by month:
-![Earthquakes by month](/images/2011-earthquake-month.png)
+![Earthquakes by month](/images/2011-earthquakes-month.png)
 
 Earthquakes by day of month:
-![Earthquakes by day of month](/images/2011-earthquake-day.png)
+![Earthquakes by day of month](/images/2011-earthquakes-day.png)
 
 Earthquakes by time of day:
-![Earthquake by time of day](/images/2011-earthquake-hour.png)
+![Earthquake by time of day](/images/2011-earthquakes-hour.png)
