@@ -1,0 +1,722 @@
+1960 05 22 - Chile - M 9.5
+1964 03 28 - Prince William Sound, Alaska - M 9.2
+2004 12 26 - Sumatra-Andaman Islands - M 9.1
+2011 03 11 - Near the East Coast of Honshu, Japan - M 9.0
+1952 11 04 - Kamchatka - M 9.0
+1868 08 13 - Arica, Peru (now Chile) - M 9.0
+1700 01 26 - Cascadia Subduction Zone - M 9.0
+2010 02 27 - Offshore Bio-Bio, Chile - M 8.8
+1906 01 31 - Off the Coast of Esmeraldas, Ecuador - M 8.8
+1965 02 04 - Rat Islands, Alaska - M 8.7
+1755 11 01 - Lisbon, Portugal - M 8.7
+1730 07 08 - Valparasio, Chile - M 8.7
+2005 03 28 - Northern Sumatra, Indonesia - M 8.6
+1957 03 09 - Andreanof Islands, Alaska - M 8.6
+1950 08 15 - Assam - Tibet - M 8.6
+2007 09 12 - Southern Sumatra, Indonesia - M 8.5
+1963 10 13 - Kuril Islands - M 8.5
+1938 02 01 - Banda Sea, Indonesia - M 8.5
+1923 02 03 - Kamchatka - M 8.5
+1922 11 11 - Chile-Argentina Border - M 8.5
+1896 06 15 - Sanriku, Japan - M 8.5
+1687 10 20 - Lima, Peru - M 8.5
+2001 06 23 - Near the Coast of Peru - M 8.4
+1933 03 02 - Sanriku, Japan - M 8.4
+1905 07 09 - Mongolia - M 8.4
+2006 11 15 - Kuril Islands - M 8.3
+2003 09 25 - Hokkaido, Japan Region - M 8.3
+1958 11 06 - Kuril Islands - M 8.3
+1903 08 11 - Southern Greece - M 8.3
+1897 06 12 - Assam, India - M 8.3
+1877 05 10 - Offshore Tarapaca, Chile - M 8.3
+1843 02 08 - Leeward Islands - M 8.3
+1994 06 09 - Bolivia - M 8.2
+1968 05 16 - Off the East Coast of Honshu, Japan - M 8.2
+1943 04 06 - Illapel - Salamanca, Chile - M 8.2
+1942 08 24 - Off the coast of central Peru - M 8.2
+1940 05 24 - Callao, Peru - M 8.2
+1938 11 10 - Shumagin Islands, Alaska - M 8.2
+1908 12 12 - Off the Coast of Central Peru - M 8.2
+1906 08 17 - Valparaiso, Chile - M 8.2
+1835 02 20 - Concepcion, Chile - M 8.2
+1821 07 10 - Camana, Peru - M 8.2
+2009 09 29 - Samoa Islands region - M 8.1
+2007 01 13 - East of the Kuril Islands - M 8.1
+2007 04 01 - Solomon Islands - M 8.1
+2004 12 23 - North of Macquarie Island - M 8.1
+1998 03 25 - Balleny Islands Region - M 8.1
+1974 10 03 - Near the Coast of Central Peru - M 8.1
+1966 10 17 - Near the Coast of Peru - M 8.1
+1957 12 04 - Gobi-Altay, Mongolia - M 8.1
+1952 03 04 - Hokkaido, Japan region - M 8.1
+1949 08 22 - Queen Charlotte Islands, British Columbia, Canada - M 8.1
+1946 12 20 - Nankaido, Japan - M 8.1
+1946 04 01 - Unimak Island, Alaska - M 8.1
+1944 12 07 - Tonankai, Japan - M 8.1
+1934 01 15 - Bihar, India - Nepal - M 8.1
+1932 06 03 - Jalisco, Mexico - M 8.1
+1911 06 15 - Ryukyu Islands, Japan - M 8.1
+2007 08 15 - Near the Coast of Central Peru - M 8.0
+2006 05 03 - Tonga - M 8.0
+2000 11 16 - New Ireland Region, Papua New Guinea - M 8.0
+1985 09 19 - Michoacan, Mexico - M 8.0
+1970 07 31 - Colombia - M 8.0
+1946 08 04 - Samana, Dominican Republic - M 8.0
+1945 11 27 - Makran Coast, Pakistan - M 8.0
+1931 08 10 - Xinjiang, China - M 8.0
+1920 06 05 - Taiwan region - M 8.0
+1907 10 21 - Qaratog, Tajikistan - M 8.0
+1899 09 10 - Yakutat Bay, Alaska - M 8.0
+1891 10 27 - Mino-Owari, Japan - M 8.0
+1855 01 23 - Wellington, New Zealand - M 8.0
+1787 05 02 - Puerto Rico - M 8.0
+1668 08 17 - Anatolia, Turkey - M 8.0
+1556 01 23 - Shensi, China - M 8.0
+2008 05 12 - Eastern Sichuan, China - M 7.9
+2007 09 12 - Kepulauan Mentawai region, Indonesia - M 7.9
+2002 11 03 - Denali Fault, Alaska - M 7.9
+2000 06 18 - South Indian Ocean - M 7.9
+2000 06 04 - Southern Sumatera, Indonesia - M 7.9
+1996 06 10 - Andreanof Islands, Alaska - M 7.9
+1986 05 07 - Andreanof Islands, Alaska - M 7.9
+1976 08 16 - Mindanao, Philippines - M 7.9
+1970 05 31 - Chimbote, Peru - M 7.9
+1960 05 21 - Arauco Peninsula, Chile - M 7.9
+1957 07 28 - Guerrero, Mexico - M 7.9
+1954 03 29 - Spain - M 7.9
+1942 08 06 - Guatemala - M 7.9
+1931 02 02 - Hawke's Bay, New Zealand - M 7.9
+1923 09 01 - Kanto (Kwanto), Japan - M 7.9
+1905 09 08 - Calabria, Italy - M 7.9
+1899 09 04 - Cape Yakataga, Alaska - M 7.9
+1868 04 03 - Ka'u District, Island of Hawaii - M 7.9
+1857 01 09 - Fort Tejon, California - M 7.9
+2009 10 07 - Santa Cruz Islands - M 7.8
+2009 07 15 - Off West Coast of the South Island, New Zealand - M 7.8
+2007 12 09 - South of the Fiji Islands - M 7.8
+2005 06 13 - Tarapaca, Chile - M 7.8
+2003 11 17 - Rat Islands, Aleutian Islands, Alaska - M 7.8
+2000 11 16 - New Ireland Region, Papua New Guinea - M 7.8
+1997 12 05 - Near East Coast of Kamchatka - M 7.8
+1997 10 14 - South of Fiji Islands - M 7.8
+1993 08 08 - South of the Mariana Islands - M 7.8
+1992 12 12 - Flores Region, Indonesia - M 7.8
+1987 11 30 - Gulf of Alaska - M 7.8
+1985 03 03 - offshore Valparaiso, Chile - M 7.8
+1978 09 16 - Iran - M 7.8
+1969 02 28 - Portugal-Morocco area - M 7.8
+1965 03 14 - Hindu Kush, Afghanistan - M 7.8
+1939 01 25 - Chillan, Chile - M 7.8
+1939 12 26 - Erzincan, Turkey - M 7.8
+1932 06 18 - Colima, Mexico - M 7.8
+1931 01 15 - Oaxaca, Mexico - M 7.8
+1929 03 07 - Fox Islands, Aleutian Islands, Alaska - M 7.8
+1920 12 16 - Haiyuan, Ningxia, China - M 7.8
+1912 08 09 - Murefte, Turkey (Ottoman Empire) - M 7.8
+1911 01 03 - Chong-Kemin, Kyrgyzstan - M 7.8
+1906 04 18 - San Francisco, California - M 7.8
+1892 02 24 - Imperial Valley, California - M 7.8
+2009 10 07 - Vanuatu - M 7.7
+2009 01 03 - Near the North Coast of Papua, Indonesia - M 7.7
+2008 07 05 - Sea of Okhotsk - M 7.7
+2007 11 14 - Antofagasta, Chile - M 7.7
+2006 07 17 - South of Java, Indonesia - M 7.7
+2002 08 19 - Fiji Islands - M 7.7
+2002 08 19 - Fiji Islands - M 7.7
+2001 01 13 - El Salvador - M 7.7
+1990 07 16 - Luzon, Philippine Islands - M 7.7
+1988 03 06 - Gulf of Alaska - M 7.7
+1980 10 10 - El Asnam (formerly Orleansville), Algeria - M 7.7
+1958 07 10 - Lituya Bay, Alaska - M 7.7
+1911 06 07 - Off Guerrero, Mexico - M 7.7
+1907 04 15 - Guerrero, Mexico - M 7.7
+1900 10 09 - Kodiak Island, Alaska - M 7.7
+1812 03 26 - Caracas, Venezuela - M 7.7
+1812 02 07 - New Madrid Region - M 7.7
+1811 12 16 - New Madrid Region - M 7.7
+1619 02 14 - Trujillo, Peru - M 7.7
+2010 07 23 - Moro Gulf, Mindanao, Philippines - M 7.6
+2009 03 19 - Tonga region - M 7.6
+2006 04 20 - Koryakia, Russia - M 7.6
+2006 01 27 - Banda Sea - M 7.6
+2005 10 08 - Pakistan - M 7.6
+2005 09 09 - New Ireland Region, Papua New Guinea - M 7.6
+2003 08 04 - Scotia Sea - M 7.6
+2003 07 15 - Carlsberg Ridge - M 7.6
+2003 01 22 - Offshore Colima, Mexico - M 7.6
+2002 10 10 - Irian Jaya, Indonesia - M 7.6
+2002 09 08 - New Guinea, Papua New Guinea - M 7.6
+2001 07 07 - Near the Coast of Peru - M 7.6
+2001 01 26 - Gujarat, India - M 7.6
+2000 11 17 - New Britain region, Papua New Guinea - M 7.6
+1999 09 20 - Taiwan - M 7.6
+1999 08 17 - Izmit, Turkey - M 7.6
+1992 09 02 - Nicaragua - M 7.6
+1991 04 22 - Costa Rica - M 7.6
+1975 02 02 - Near Islands, Alaska - M 7.6
+1972 07 30 - Sitka, Alaska - M 7.6
+1965 01 24 - Sanana, Indonesia (Ceram Sea) - M 7.6
+1957 06 27 - Stanovoy Mountains, Russia (USSR) - M 7.6
+1946 08 08 - Samana, Dominican Republic - M 7.6
+1943 11 26 - Ladik, Turkey - M 7.6
+1942 11 26 - Turkey - M 7.6
+1932 12 25 - Gansu, China - M 7.6
+1928 12 01 - Talca, Chile - M 7.6
+1927 05 22 - Tsinghai, China - M 7.6
+1927 03 07 - Tango, Japan - M 7.6
+1910 04 12 - Taiwan region - M 7.6
+2009 09 30 - Southern Sumatra, Indonesia - M 7.5
+2009 08 10 - Andaman Islands, India region - M 7.5
+2007 01 21 - Molucca Sea - M 7.5
+2007 09 28 - Mariana Islands region - M 7.5
+2007 08 08 - Java, Indonesia - M 7.5
+2005 09 26 - Northern Peru - M 7.5
+2004 11 11 - Kepulauan Alor, Indonesia - M 7.5
+2002 03 05 - Mindanao, Philippines - M 7.5
+2001 01 01 - Mindanao, Philippines - M 7.5
+1999 09 30 - Oaxaca, Mexico - M 7.5
+1998 05 03 - Southeast of Taiwan - M 7.5
+1998 01 04 - Loyalty Islands Region - M 7.5
+1979 02 28 - Mt. St. Elias, Alaska - M 7.5
+1976 07 27 - Tangshan, China - M 7.5
+1976 02 04 - Guatemala - M 7.5
+1974 10 08 - Leeward Islands - M 7.5
+1972 01 25 - Taiwain region - M 7.5
+1971 07 09 - Valparaiso region, Chile - M 7.5
+1970 01 04 - Yunnan Province, China - M 7.5
+1964 06 16 - Niigata, Japan - M 7.5
+1960 01 13 - Arequipa, Peru - M 7.5
+1959 04 26 - Taiwan region - M 7.5
+1949 07 10 - Khait, Tajikistan - M 7.5
+1935 05 30 - Quetta, Pakistan - M 7.5
+1918 10 11 - Mona Passage - M 7.5
+1917 07 30 - Yunnan, China - M 7.5
+1905 04 04 - Kangra, India - M 7.5
+1902 04 19 - Guatemala - M 7.5
+1812 01 23 - New Madrid Region - M 7.5
+1693 01 11 - Sicily, Italy - M 7.5
+2010 07 23 - Moro Gulf, Mindanao, Philippines - M 7.4
+2009 10 07 - Vanuatu - M 7.4
+2009 01 15 - East of the Kuril Islands - M 7.4
+2009 01 03 - Near the North Coast of Papua, Indonesia - M 7.4
+2008 11 16 - Minahasa, Sulawesi, Indonesia - M 7.4
+2008 02 20 - Simeulue, Indonesia - M 7.4
+2007 11 29 - Martinique Region, Windward Islands - M 7.4
+2007 09 30 - Auckland Islands, New Zealand region - M 7.4
+2006 05 16 - Kermadec Islands region - M 7.4
+2006 01 02 - East of South Sandwich Islands - M 7.4
+2004 09 05 - Near the South Coast of Honshu, Japan - M 7.4
+2002 03 03 - Hindu Kush Region, Afghanistan - M 7.4
+2002 11 02 - Northern Sumatera, Indonesia - M 7.4
+1990 06 20 - Western Iran - M 7.4
+1977 11 23 - San Juan, Argentina - M 7.4
+1965 03 28 - La Ligua, Chile - M 7.4
+1953 12 12 - Tumbes, Peru - M 7.4
+1948 05 11 - Moquegua, Peru - M 7.4
+1944 02 01 - Gerede, Turkey - M 7.4
+1944 01 15 - San Juan, Argentina - M 7.4
+1943 09 10 - Tottori, Japan - M 7.4
+1943 11 03 - Skwenta, Alaska - M 7.4
+1933 08 25 - Sichuan, China - M 7.4
+1933 11 20 - Baffin Bay, Canada - M 7.4
+1929 05 01 - Koppeh Dagh, Iran (Persia) - M 7.4
+1911 02 18 - Sarez, Tajikistan - M 7.4
+1887 05 03 - Northern Sonora, Mexico - M 7.4
+1872 03 26 - Owens Valley, California - M 7.4
+2010 07 23 - Moro Gulf, Mindanao, Philippines - M 7.3
+2009 11 09 - Fiji - M 7.3
+2009 05 28 - Offshore Honduras - M 7.3
+2008 11 24 - Sea of Okhotsk - M 7.3
+2008 04 09 - Loyalty Islands - M 7.3
+2004 02 07 - Irian Jaya, Indonesia - M 7.3
+2004 07 25 - Southern Sumatra, Indonesia - M 7.3
+2003 01 20 - Solomon Islands - M 7.3
+2003 09 27 - Southwestern Siberia, Russia - M 7.3
+2003 12 27 - Southeast of the Loyalty Islands - M 7.3
+2002 11 17 - Kuril Islands, Russia - M 7.3
+2002 06 28 - Priamurye-Northeastern China border region - M 7.3
+1999 02 06 - Santa Cruz Islands - M 7.3
+1997 05 10 - Northern Iran - M 7.3
+1992 06 28 - Landers, California - M 7.3
+1981 07 28 - southern Iran - M 7.3
+1976 11 24 - Turkey-Iran border region - M 7.3
+1974 07 13 - Panama-Colombia border region - M 7.3
+1968 08 31 - Dasht-e Bayaz, Iran - M 7.3
+1967 07 22 - Mudurnu Valley, Turkey - M 7.3
+1965 08 23 - Oaxaca, Mexico - M 7.3
+1965 03 30 - Rat Islands, Alaska - M 7.3
+1959 08 18 - Hebgen Lake, Montana - M 7.3
+1958 01 15 - Arequipa, Peru - M 7.3
+1958 04 07 - Huslia, Alaska - M 7.3
+1953 03 18 - Yenice-Gonen, Turkey - M 7.3
+1952 07 21 - Kern County, California - M 7.3
+1948 10 05 - Ashgabat, Turkmenistan - M 7.3
+1948 06 28 - Fukui, Japan - M 7.3
+1948 05 25 - Sichuan, China - M 7.3
+1947 11 01 - Satipo, Peru - M 7.3
+1947 08 05 - Pasni, Iran - M 7.3
+1946 06 23 - Vancouver Island, British Columbia, Canada - M 7.3
+1946 11 10 - Ancash, Peru - M 7.3
+1942 12 20 - Erbaa, Turkey - M 7.3
+1940 11 10 - Vrancea, Romania - M 7.3
+1937 07 22 - Central Alaska - M 7.3
+1929 11 18 - Grand Banks, Nova Scotia, Canada - M 7.3
+1923 03 24 - Near Luhuo, Sichuan, China - M 7.3
+1922 01 31 - Eureka, California - M 7.3
+1918 02 13 - Nan'ao, Guangdong, (Kwangtung), China - M 7.3
+1909 01 23 - Silakhor, Iran (Persia) - M 7.3
+1904 08 27 - Fairbanks, Alaska - M 7.3
+1887 06 08 - Almaty, Kazakhstan - M 7.3
+1886 09 01 - Charleston, South Carolina - M 7.3
+1875 05 18 - northern Colombia - M 7.3
+1873 11 23 - California - Oregon Coast - M 7.3
+1664 05 12 - Ica, Peru - M 7.3
+2010 05 09 - Northern Sumatra, Indonesia - M 7.2
+2010 04 04 - Baja California, Mexico - M 7.2
+2009 02 11 - Kepulauan Talaud, Indonesia - M 7.2
+2008 03 20 - Xinjiang-Xizang border region - M 7.2
+2008 02 25 - Kepulauan Mentawai region, Indonesia - M 7.2
+2007 12 19 - Andreanof Islands, Aleutian Islands, Alaska - M 7.2
+2007 10 31 - Pagan Region, Northern Mariana Islands - M 7.2
+2007 09 02 - Santa Cruz Islands - M 7.2
+2007 08 01 - Vanuatu - M 7.2
+2005 06 15 - Off the Coast of Northern California - M 7.2
+2005 08 16 - Near the East Coast of Honshu, Japan - M 7.2
+2005 07 24 - Nicobar Islands, India Region - M 7.2
+2004 11 15 - Near the West Coast of Colombia - M 7.2
+2004 09 05 - Near the South Coast of Western Honshu, Japan - M 7.2
+2003 08 21 - South Island of New Zealand - M 7.2
+2002 01 02 - Vanuatu Islands - M 7.2
+1999 11 12 - Duzce, Turkey - M 7.2
+1998 08 04 - Near Coast of Ecuador - M 7.2
+1992 04 25 - Cape Mendocino, California - M 7.2
+1980 01 01 - Azores Islands, Portugal - M 7.2
+1980 11 08 - Humboldt County, California - M 7.2
+1977 03 04 - Romania - M 7.2
+1975 11 29 - Kalapana, Hawaii - M 7.2
+1972 04 24 - Taiwain region - M 7.2
+1969 12 25 - Guadeloupe, Leeward Islands - M 7.2
+1947 10 16 - Wood River, Alaska - M 7.2
+1941 04 29 - Meeberrie, Australia - M 7.2
+1932 12 21 - Cedar Mountain, Nevada - M 7.2
+1930 05 06 - Salmas, Iran (Persia) - M 7.2
+1923 01 22 - Humbolt County, California - M 7.2
+1912 07 07 - Paxson, Alaska - M 7.2
+1908 12 28 - Messina, Italy - M 7.2
+2010 01 03 - Solomon Islands - M 7.1
+2009 08 09 - Near the South Coast of Honshu, Japan - M 7.1
+2008 04 12 - Macquarie Island region - M 7.1
+2007 03 25 - Vanuatu - M 7.1
+2006 12 26 - Taiwan region - M 7.1
+2005 03 02 - Banda Sea - M 7.1
+2005 02 05 - Celebes Sea - M 7.1
+2004 11 26 - Papua, Indonesia - M 7.1
+2004 11 22 - Off West Coast of South Island, N.Z. - M 7.1
+2003 06 20 - Amazonas, Brazil - M 7.1
+2003 03 17 - Rat Islands, Aleutian Islands, Alaska - M 7.1
+2002 04 26 - Mariana Islands - M 7.1
+2002 03 31 - Taiwan region - M 7.1
+1999 05 16 - New Britain region, Papua New Guinea - M 7.1
+1999 05 10 - New Britain region, Papua New Guinea - M 7.1
+1999 10 16 - Hector Mine, California - M 7.1
+1998 01 30 - Near Coast of Northern Chile - M 7.1
+1995 05 27 - Sakhalin Island - M 7.1
+1976 06 25 - Papua, Indonesia - M 7.1
+1972 04 10 - southern Iran - M 7.1
+1968 08 02 - Oaxaca, Mexico - M 7.1
+1968 05 23 - Inangahua, New Zealand - M 7.1
+1965 03 31 - Central Greece - M 7.1
+1962 09 01 - Qazvin, Iran - M 7.1
+1962 05 19 - Guerrero, Mexico - M 7.1
+1957 12 13 - Sahneh, Iran - M 7.1
+1957 07 02 - Mazandaran, Iran - M 7.1
+1957 05 26 - Bolu Province, Turkey - M 7.1
+1957 04 25 - Fethiye, Turkey - M 7.1
+1957 03 14 - Andreanof Islands, Alaska - M 7.1
+1957 03 09 - Fox Islands, Alaska - M 7.1
+1954 04 30 - Greece - M 7.1
+1954 12 16 - Fairview Peak, Nevada - M 7.1
+1953 08 12 - Kefallinia, Greece - M 7.1
+1953 01 05 - Near Islands, Alaska - M 7.1
+1949 04 13 - Puget Sound, Washington - M 7.1
+1945 01 12 - Mikawa, Japan - M 7.1
+1940 05 19 - Imperial Valley, California - M 7.1
+1935 04 20 - Taiwan (Formosa) - M 7.1
+1934 05 04 - Chugach Mountains, Alaska - M 7.1
+1927 11 04 - Lompoc, California - M 7.1
+1927 10 24 - Southeast Alaska - M 7.1
+1925 03 16 - Yunnan, China - M 7.1
+1915 10 03 - Pleasant Valley, Nevada - M 7.1
+1901 12 31 - Cook Inlet, Alaska - M 7.1
+1812 12 21 - West of Ventura, California - M 7.1
+2010 01 12 - Haiti region - M 7.0
+2010 09 03 - South Island of New Zealand - M 7.0
+2009 09 02 - Java, Indonesia - M 7.0
+2009 02 18 - Kermadec Islands region - M 7.0
+2008 09 29 - Kermadec Islands, New Zealand - M 7.0
+2008 07 19 - Off the East Coast of Honshu, Japan - M 7.0
+2008 06 30 - South Sandwich Islands region - M 7.0
+2006 08 20 - Scotia Sea - M 7.0
+2006 02 22 - Mozambique - M 7.0
+2005 11 14 - Off the East Coast of Honshu, Japan - M 7.0
+2004 02 05 - Irian Jaya, Indonesia - M 7.0
+2004 11 28 - Hokkaido, Japan Region - M 7.0
+2004 10 09 - Near the Coast of Nicaragua - M 7.0
+2003 10 31 - Off the East Coast of Honshu, Japan - M 7.0
+2003 05 26 - Halmahera, Indonesia - M 7.0
+2003 05 26 - Near the East Coast of Honshu, Japan - M 7.0
+1999 06 15 - Central Mexico - M 7.0
+1998 07 17 - Near North Coast of New Guinea, Papua New Guinea - M 7.0
+1997 07 09 - Near Coast of Venezuela - M 7.0
+1994 09 01 - Cape Mendocino, California - M 7.0
+1991 08 17 - Honeydew, California - M 7.0
+1987 03 06 - Colombia-Ecuador - M 7.0
+1975 02 04 - Haicheng, China - M 7.0
+1972 01 25 - Taiwain region - M 7.0
+1970 06 24 - South of Queen Charlotte Islands, British Columbia, Canada - M 7.0
+1966 03 07 - Hebei, China - M 7.0
+1966 08 07 - Rat Islands, Alaska - M 7.0
+1965 02 23 - Taltal, Chile - M 7.0
+1964 10 06 - Western Turkey - M 7.0
+1962 05 11 - Guerrero, Mexico - M 7.0
+1957 03 16 - Andreanof Islands, Alaska - M 7.0
+1957 03 12 - Andreanof Islands, Alaska - M 7.0
+1929 05 26 - South of Queen Charlotte Islands, British Columbia, Canada - M 7.0
+1918 12 06 - Vancouver Island, British Columbia, Canada - M 7.0
+1915 01 13 - Avezzano, Italy - M 7.0
+1914 10 03 - Burdur, Turkey (Ottoman Empire) - M 7.0
+1910 09 09 - Rat Islands, Aleutian Islands, Alaska - M 7.0
+1908 05 15 - Gulf of Alaska - M 7.0
+1903 04 28 - Turkey - M 7.0
+1899 09 23 - Copper River delta, Alaska - M 7.0
+1899 04 16 - Eureka, California - M 7.0
+1868 03 29 - Ka'u District, Island of Hawaii - M 7.0
+1823 06 02 - South flank of Kilauea, Hawaii - M 7.0
+1811 12 16 - New Madrid Region - M 7.0
+1663 02 05 - St. Lawrence Valley region, Quebec, Canada - M 7.0
+2010 04 13 - Southern Qinghai, China - M 6.9
+2009 10 24 - Banda Sea - M 6.9
+2009 08 28 - Banda Sea - M 6.9
+2009 08 03 - Gulf of California - M 6.9
+2009 04 07 - Kuril Islands - M 6.9
+2008 09 08 - Vanuatu - M 6.9
+2008 06 13 - Eastern Honshu, Japan - M 6.9
+2008 03 03 - Philippine Islands region - M 6.9
+2008 02 14 - Southern Greece - M 6.9
+2008 02 08 - Northern Mid-Atlantic Ridge - M 6.9
+2007 01 30 - West of Macquarie Island - M 6.9
+2007 09 30 - South of the Mariana Islands - M 6.9
+2007 07 26 - Molucca Sea - M 6.9
+2006 12 26 - Taiwan region - M 6.9
+2006 09 28 - Samoa Islands Region - M 6.9
+2005 05 19 - Nias Region, Indonesia - M 6.9
+2005 11 17 - Potosi, Bolivia - M 6.9
+2004 11 09 - Solomon Islands - M 6.9
+2004 06 10 - Kamchatka Peninsula, Russia - M 6.9
+2003 06 23 - Rat Islands, Aleutian Islands - M 6.9
+2002 10 12 - Peru-Brazil border region - M 6.9
+1999 08 20 - Costa Rica - M 6.9
+1995 01 16 - Kobe, Japan - M 6.9
+1989 10 18 - Loma Prieta, California - M 6.9
+1983 10 30 - Turkey - M 6.9
+1983 10 28 - Borah Peak, Idaho - M 6.9
+1981 06 11 - southern Iran - M 6.9
+1971 05 22 - Eastern Turkey - M 6.9
+1970 03 28 - Gediz, Turkey - M 6.9
+1968 06 19 - Moyobamba, Peru - M 6.9
+1968 10 14 - Meckering, Australia - M 6.9
+1966 03 22 - Hebei, China - M 6.9
+1964 07 06 - Guerrero, Mexico - M 6.9
+1951 08 21 - Kona, Hawaii - M 6.9
+1899 09 20 - Menderes Valley, Turkey - M 6.9
+1857 12 16 - Naples, Italy - M 6.9
+1812 12 08 - Southwest of San Bernardino County, California - M 6.9
+2009 11 24 - Tonga - M 6.8
+2009 10 30 - Ryukyu Islands, Japan - M 6.8
+2009 10 08 - Vanuatu - M 6.8
+2009 10 07 - Celebes Sea - M 6.8
+2008 09 11 - Hokkaido, Japan region - M 6.8
+2008 07 23 - Eastern Honshu, Japan - M 6.8
+2008 05 09 - Guam region - M 6.8
+2008 05 07 - Near the East Coast of Honshu, Japan - M 6.8
+2008 02 23 - South Sandwich Islands region - M 6.8
+2008 12 09 - Kermadec Islands region - M 6.8
+2007 11 22 - Eastern New Guinea Region, Papua New Guinea - M 6.8
+2007 11 16 - Peru-Ecuador border region - M 6.8
+2007 10 24 - Southern Sumatra, Indonesia - M 6.8
+2007 10 15 - South Island of New Zealand - M 6.8
+2007 09 26 - New Ireland Region, Papua New Guinea - M 6.8
+2007 09 10 - Near the west coast of Colombia - M 6.8
+2007 07 16 - Sea of Japan - M 6.8
+2006 11 13 - Santiago del Estero, Argentina - M 6.8
+2006 09 01 - Bougainville Region, Papua New Guinea - M 6.8
+2006 05 16 - Nias Region, Indonesia - M 6.8
+2005 06 14 - Rat Islands, Aleutian Islands, Alaska - M 6.8
+2005 02 26 - Simeulue, Indonesia - M 6.8
+2005 12 05 - Lake Tanganyika Region, Congo-Tanzania - M 6.8
+2004 12 14 - Cayman Islands Region - M 6.8
+2004 12 06 - Hokkaido, Japan Region - M 6.8
+2004 10 08 - Solomon Islands - M 6.8
+2004 06 28 - Southeastern Alaska - M 6.8
+2003 07 27 - Primor'ye, Russia - M 6.8
+2003 06 20 - Near the Coast of Central Chile - M 6.8
+2003 05 21 - Northern Algeria - M 6.8
+2003 03 11 - New Ireland Region, Papua New Guinea - M 6.8
+2003 12 10 - Taiwan - M 6.8
+2001 02 28 - Nisqually, Washington - M 6.8
+1991 10 19 - Northern India - M 6.8
+1988 12 07 - Spitak, Armenia - M 6.8
+1988 08 20 - Nepal-India border region - M 6.8
+1985 12 23 - Nahanni region, Northwest Territories, Canada - M 6.8
+1981 02 24 - Greece - M 6.8
+1974 05 10 - China - M 6.8
+1966 08 19 - Varto, Turkey - M 6.8
+1959 08 26 - Vera Cruz, Mexico - M 6.8
+1954 09 09 - Orleansville, Algeria - M 6.8
+1954 12 16 - Dixie Valley, Nevada - M 6.8
+1954 08 24 - Stillwater, Nevada - M 6.8
+1949 08 17 - Erzurum, Turkey - M 6.8
+1949 08 05 - Ambato, Ecuador - M 6.8
+1938 01 23 - Maui, Hawaii - M 6.8
+1925 06 29 - Santa Barbara, California - M 6.8
+1918 04 21 - San Jacinto, California - M 6.8
+1910 08 05 - Oregon - M 6.8
+1906 03 16 - Chia-i, Taiwan - M 6.8
+1898 04 15 - Mendocino County, California - M 6.8
+1872 12 15 - Lake Chelan, Washington - M 6.8
+1871 02 20 - Lanai, Hawaii - M 6.8
+1868 10 21 - Hayward, California - M 6.8
+1838 06 - San Francisco area, California - M 6.8
+2009 08 17 - Southwestern Ryukyu Islands, Japan - M 6.7
+2009 08 16 - Kepulauan Mentawai region, Indonesia - M 6.7
+2009 06 23 - New Ireland region, Papua New Guinea - M 6.7
+2009 04 16 - South Sandwich Islands region - M 6.7
+2009 01 15 - Southeast of the Loyalty Islands - M 6.7
+2007 12 16 - Antofagasta, Chile - M 6.7
+2007 09 20 - Southern Sumatra, Indonesia - M 6.7
+2007 08 02 - Andreanof Islands, Aleutian Islands, Alaska - M 6.7
+2007 06 28 - Bougainville region, Papua New Guinea - M 6.7
+2007 06 13 - Offshore Guatemala - M 6.7
+2007 03 25 - Near the West Coast of Honshu,Japan - M 6.7
+2006 10 20 - Near the Coast of Central Peru - M 6.7
+2006 10 17 - New Britain region, Papua New Guinea - M 6.7
+2006 10 15 - Hawaii region, Hawaii - M 6.7
+2006 03 14 - Seram, Indonesia - M 6.7
+2006 01 08 - Southern Greece - M 6.7
+2005 02 08 - Vanuatu - M 6.7
+2005 01 01 - Off the West Coast of Northern Sumatra - M 6.7
+2005 05 14 - Nias Region, Indonesia - M 6.7
+2005 04 11 - Southeast of the Loyalty Islands - M 6.7
+2005 04 10 - Kepulauan Mentawai Region, Indonesia - M 6.7
+2005 07 05 - Nias Region, Indonesia - M 6.7
+2004 11 11 - Solomon Islands - M 6.7
+2004 11 02 - Vancouver Island, Canada Region - M 6.7
+2004 10 15 - Taiwan region - M 6.7
+2004 01 28 - Seram, Indonesia - M 6.7
+2003 05 04 - Kermadec Islands, New Zealand - M 6.7
+2003 10 08 - Hokkaido, Japan Region - M 6.7
+2003 10 01 - Southwestern Siberia, Russia - M 6.7
+2003 01 10 - New Ireland, Papua New Guinea, region - M 6.7
+2003 12 05 - Komandorskiye Ostrova, Russia Region - M 6.7
+2002 10 23 - Denali, Alaska - M 6.7
+2000 10 06 - Western Honshu, Japan - M 6.7
+1999 07 11 - Honduras - M 6.7
+1994 01 17 - Northridge, California - M 6.7
+1987 11 24 - Superstition Hills, California - M 6.7
+1983 11 16 - Kaoiki, Hawaii - M 6.7
+1975 09 06 - Turkey - M 6.7
+1951 08 13 - Kursunlu, Turkey - M 6.7
+1899 12 25 - San Jacinto, California - M 6.7
+2009 11 17 - Queen Charlotte Islands region - M 6.6
+2009 11 08 - Sumbawa region, Indonesia - M 6.6
+2009 10 08 - Santa Cruz Islands - M 6.6
+2009 10 04 - Moro Gulf, Mindanao, Philippines - M 6.6
+2009 10 01 - Southern Sumatra, Indonesia - M 6.6
+2009 08 30 - Samoa Islands region - M 6.6
+2009 08 12 - Izu Islands, Japan region - M 6.6
+2009 08 10 - Santa Cruz Islands - M 6.6
+2009 04 18 - Kuril Islands - M 6.6
+2009 01 19 - Southeast of the Loyalty Islands - M 6.6
+2008 10 05 - Kyrgyzstan - M 6.6
+2008 05 02 - Andreanof Islands, Aleutian Islands, Alaska - M 6.6
+2008 04 16 - Andreanof Islands, Aleutian Islands, Alaska - M 6.6
+2008 02 10 - South Sandwich Islands region - M 6.6
+2008 01 05 - Queen Charlotte Islands region - M 6.6
+2007 12 20 - Off east coast of the North Island, New Zealand - M 6.6
+2007 11 27 - Solomon Islands - M 6.6
+2007 11 10 - North of Macquarie Island - M 6.6
+2007 09 30 - Auckland Islands, New Zealand region - M 6.6
+2007 07 16 - Near the west coast of Honshu, Japan - M 6.6
+2006 01 04 - Gulf of California - M 6.6
+2005 06 17 - Off the Coast of Northern California - M 6.6
+2005 03 20 - Kyushu, Japan - M 6.6
+2005 01 16 - State of Yap, Fed. States of Micronesia - M 6.6
+2005 12 11 - New Britain region, Papua New Guinea - M 6.6
+2005 09 29 - New Britain region, Papua New Guinea - M 6.6
+2005 07 02 - Near the Coast of Nicaragua - M 6.6
+2004 10 23 - Near the West Coast of Honshu, Japan - M 6.6
+2004 09 06 - Near the South Coast of Honshu, Japan - M 6.6
+2004 05 03 - Bio-Bio, Chile - M 6.6
+2004 04 05 - Hindu Kush Region, Afghanistan - M 6.6
+2003 09 21 - Myanmar - M 6.6
+2003 06 07 - New Britain region, Papua New Guinea - M 6.6
+2003 02 19 - Unimak Island Region, Alaska - M 6.6
+2003 12 26 - Southeastern Iran - M 6.6
+2003 11 06 - Vanuatu Islands - M 6.6
+2003 12 22 - San Simeon, California - M 6.6
+2002 06 18 - Chile-Argentina Border Region - M 6.6
+2001 02 13 - El Salvador - M 6.6
+1998 05 30 - Afghanistan-Tajikistan Border Region - M 6.6
+1998 03 14 - Northern Iran - M 6.6
+1995 05 13 - Greece - M 6.6
+1988 01 22 - Tennant Creek, Australia - M 6.6
+1978 06 20 - Greece - M 6.6
+1971 02 09 - San Fernando, California - M 6.6
+1968 09 03 - Bartin, Turkey - M 6.6
+1954 07 06 - Fallon-Stillwater area, Nevada - M 6.6
+1934 03 12 - Kosmo, Utah - M 6.6
+1925 06 28 - Clarkston Valley, Montana - M 6.6
+1895 10 31 - Charleston, Missouri - M 6.6
+1882 11 08 - Denver, Colorado - M 6.6
+2010 01 10 - Offshore Northern California - M 6.5
+2009 11 13 - Offshore Tarapaca, Chile - M 6.5
+2009 05 16 - Kermadec Islands region - M 6.5
+2008 02 12 - Oaxaca, Mexico - M 6.5
+2007 01 31 - Kermadec Islands, New Zealand - M 6.5
+2007 11 25 - Sumbawa Region, Indonesia - M 6.5
+2007 09 28 - Southeast of Loyalty Islands - M 6.5
+2007 08 16 - Solomon Islands - M 6.5
+2007 08 15 - Andreanof Islands, Aleutian Islands, Alaska - M 6.5
+2005 02 19 - Sulawesi, Indonesia - M 6.5
+2005 12 12 - Hindu Kush Region, Afghanistan - M 6.5
+2005 12 02 - Near the East Coast of Honshu, Japan - M 6.5
+2005 11 19 - Simeulue, Indonesia - M 6.5
+2004 10 08 - Mindoro, Philippines - M 6.5
+2004 05 29 - Off the East Coast of Honshu, Japan - M 6.5
+2003 11 18 - Samar, Philippines - M 6.5
+2002 02 03 - Turkey - M 6.5
+2002 06 22 - Western Iran - M 6.5
+1995 06 15 - Greece - M 6.5
+1992 06 28 - Big Bear, California - M 6.5
+1987 11 24 - Superstition Hills, California - M 6.5
+1980 11 23 - Southern Italy - M 6.5
+1976 05 06 - Northeastern Italy - M 6.5
+1968 01 15 - Western Sicily - M 6.5
+1967 07 29 - Near the Coast of Venezuela - M 6.5
+1965 04 29 - Puget Sound, Washington - M 6.5
+1959 08 18 - Wyoming - M 6.5
+1954 12 21 - Eureka, California - M 6.5
+1953 02 12 - Torud, Iran - M 6.5
+1935 07 16 - Taiwan (Formosa) - M 6.5
+1934 01 30 - Excelsior Mountains, Nevada - M 6.5
+1930 07 23 - Irpinia, Italy - M 6.5
+1929 10 06 - Holualoa, Hawaii - M 6.5
+1911 07 01 - Calaveras fault, California - M 6.5
+1907 01 14 - Kingston, Jamaica - M 6.5
+1865 10 08 - Santa Cruz Mountains, California - M 6.5
+1836 06 10 - South San Francisco Bay region, California - M 6.5
+2009 12 19 - Taiwan - M 6.4
+2009 07 01 - Crete, Greece - M 6.4
+2009 01 18 - Kermadec Islands, New Zealand - M 6.4
+2008 10 28 - Pakistan - M 6.4
+2008 06 08 - Greece - M 6.4
+2008 03 12 - Vanuatu - M 6.4
+2007 03 06 - Southern Sumatra, Indonesia - M 6.4
+2007 12 26 - Fox Islands, Aleutian Islands, Alaska - M 6.4
+2007 08 20 - Philippine Islands region - M 6.4
+2006 02 26 - South of the Fiji Islands - M 6.4
+2005 02 22 - Central Iran - M 6.4
+2004 02 24 - Strait of Gibraltar - M 6.4
+2004 11 20 - Costa Rica - M 6.4
+2003 05 01 - Eastern Turkey - M 6.4
+2003 09 22 - Dominican Republic Region - M 6.4
+1997 09 26 - Central Italy - M 6.4
+1983 05 02 - Coalinga, California - M 6.4
+1979 10 15 - Imperial Valley, Mexico - California Border - M 6.4
+1969 10 01 - Comas region, Chile - M 6.4
+1969 03 28 - Alasehir, Turkey - M 6.4
+1933 03 11 - Long Beach, California - M 6.4
+1932 06 06 - Eureka, California - M 6.4
+1920 09 07 - Toscana, Italy - M 6.4
+1910 05 04 - Cartago, Costa Rica - M 6.4
+1902 12 16 - eastern Uzbekistan (Turkestan) - M 6.4
+1901 03 03 - Parkfield, California - M 6.4
+1892 04 21 - Winters, California - M 6.4
+1892 04 19 - Vacaville, California - M 6.4
+2011 02 21 - South Island of New Zealand - M 6.3
+2009 09 12 - Offshore Carabobo, Venezuela - M 6.3
+2009 06 02 - Vanuatu - M 6.3
+2009 04 06 - Central Italy - M 6.3
+2008 10 06 - Eastern Xizang - M 6.3
+2008 02 04 - Tarapaca, Chile - M 6.3
+2006 06 11 - Kyushu, Japan - M 6.3
+2006 05 26 - Java, Indonesia - M 6.3
+2005 10 19 - Near the East Coast of Honshu, Japan - M 6.3
+2004 11 21 - Leeward Islands - M 6.3
+2004 11 08 - Taiwan region - M 6.3
+2004 05 28 - Northern Iran - M 6.3
+2003 01 16 - Blanco Fracture Zone - Offshore Oregon, - M 6.3
+2003 08 14 - Greece - M 6.3
+2003 02 24 - Southern Xinjiang, China - M 6.3
+2002 11 20 - Northwestern Kashmir - M 6.3
+1971 05 12 - Western Turkey - M 6.3
+1967 12 10 - Koyna, India - M 6.3
+1965 07 06 - Central Greece - M 6.3
+1965 05 03 - La Libertad, El Salvador - M 6.3
+1965 03 09 - Northern Sporades, Greece - M 6.3
+1947 11 23 - Southwest Montana - M 6.3
+1935 10 19 - Helena, Montana - M 6.3
+1925 03 01 - Charlevoix, Quebec, Canada - M 6.3
+1919 06 29 - Mugello, Tuscany - M 6.3
+1915 06 23 - Imperial Valley, California - M 6.3
+1898 03 31 - Mare Island, California - M 6.3
+1897 06 20 - Calaveras fault, California - M 6.3
+1890 02 24 - Corralitos, California - M 6.3
+1843 01 05 - Northeast Arkansas - M 6.3
+2009 10 29 - Hindu Kush region, Afghanistan - M 6.2
+2007 09 06 - Taiwan region - M 6.2
+2002 05 15 - Taiwan - M 6.2
+2002 10 24 - Lake Tanganyika region - M 6.2
+1993 09 29 - Latur-Killari, India - M 6.2
+1992 04 23 - Joshua Tree - M 6.2
+1986 07 21 - Chalfant Valley, California - M 6.2
+1984 04 24 - Morgan Hill, California - M 6.2
+1980 05 25 - Mammoth Lakes, California - M 6.2
+1975 03 02 - Eastern Idaho - M 6.2
+1974 12 28 - Northern Pakistan - M 6.2
+1973 04 26 - Island of Hawaii, Hawaii - M 6.2
+1972 12 23 - Nicaragua - M 6.2
+1965 04 05 - Peloponnisos, Greece - M 6.2
+1951 05 06 - Jucuapa, El Salvador - M 6.2
+1935 11 01 - Timiskaming, Quebec, Canada - M 6.2
+1904 08 11 - Samos, Greece - M 6.2
+2010 03 08 - Eastern Turkey - M 6.1
+2009 09 21 - Bhutan - M 6.1
+2009 08 10 - Near the South Coast of Honshu, Japan - M 6.1
+2009 01 08 - Costa Rica - M 6.1
+2006 03 31 - Western Iran - M 6.1
+2003 01 27 - Turkey - M 6.1
+2002 03 25 - Hindu Kush Region, Afghanistan - M 6.1
+1999 01 25 - Colombia - M 6.1
+1986 07 08 - North Palm Springs, California - M 6.1
+1975 06 30 - Yellowstone National Park, Wyoming - M 6.1
+1966 06 28 - Parkfield, California - M 6.1
+1944 07 12 - Sheep Mountain, Idaho - M 6.1
+1934 06 08 - Parkfield, California - M 6.1
+1926 10 22 - Monterey Bay, California - M 6.1
+1922 03 10 - Parkfield, California - M 6.1
+2008 02 21 - Nevada - M 6.0
+2005 11 27 - Southern Iran - M 6.0
+2004 09 28 - Central California - M 6.0
+2003 07 21 - Yunnan, China - M 6.0
+2002 09 06 - Southern Italy - M 6.0
+1999 09 07 - Greece - M 6.0
+1993 09 21 - Klamath Falls, Oregon - M 6.0
+1989 12 25 - Ungava, Quebec, Canada - M 6.0
+1985 01 26 - Mendoza, Argentina - M 6.0
+1982 12 13 - Yemen - M 6.0
+1980 05 27 - Mammoth Lakes, California - M 6.0
+1963 07 26 - Skopje, Former Yugoslav Rep. of Macedonia - M 6.0
+1950 05 21 - Cusco, Peru - M 6.0
+1935 10 31 - Helena, Montana - M 6.0
+1931 03 31 - Managua, Nicaragua - M 6.0
