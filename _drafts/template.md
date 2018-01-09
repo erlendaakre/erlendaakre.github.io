@@ -11,6 +11,6 @@ http://web.archive.org/web/20090715000000*/erlendaakre.com
 
 2011 - MAY 21
 
-LAST: angel stats
+LAST: Majesty 2 review 
 
-NEXT: google maps trondheim
+NEXT: increasing earthquakes
