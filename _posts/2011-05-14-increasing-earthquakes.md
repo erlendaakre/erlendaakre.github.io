@@ -7,14 +7,14 @@ tags: science skepticism conspiration-theory correlation earth earthquake statis
 
 Are earthquakes increasing in strength or frequency?
 
-Just found myself in a debate where the opposition claims earthquakes is on the rise (judgement day, wrath of god, etc..), being a skeptic I of course needed evidence, and where better to get it than to analyse it for myself from raw data?
+I just found myself in a debate where the opposition claims that earthquakes are on the rise (judgement day, wrath of god, etc..), being slightly skeptical I of course needed evidence, and where better to get it than to analyse it for myself from the actual data?
 
 **How many earthquakes are there?**
-I went to the United States Geological Survey for the raw data, they have a pretty big list of “selected earthquakes of general historic interest” (6.0+) earthquakes recorded (ordered by magnitude, strongest quake first)
+I went to the United States Geological Survey for the raw data, they have a pretty big list named “selected earthquakes of general historic interest” (6.0+) earthquakes recorded (ordered by magnitude, strongest quake first) which seems to be used often to support the argument of increasing earthquakes.
 
 [http://earthquake.usgs.gov/earthquakes/world/historical_mag_big.php](http://earthquake.usgs.gov/earthquakes/world/historical_mag_big.php)
 
-I then made a little computer program to parse the text, and output it in csv format:
+I then made a small computer program to parse the text and output it in csv format:
 
 ```java
 import java.io.BufferedReader;
@@ -66,11 +66,9 @@ public class Test {
 data text file: [quakes.txt](/files/2011/quakes.txt) (program input)\\
 csv result file: [quakes.csv](/files/2011/quakes.csv) (program output)
 
-add this into open office and make a graph of it:
-
+add this into open office and make a graph:\\
 ![misleading earthquake frequency](/images/2011-earthquakes.png)
 
-**Conclusion**
 This graph makes it look like earthquakes are running rampant, and you might have seen a very similar graph on the Internet (YouTube and other places), used by conspiracy cranks as an argument that earthquakes are increasing. But fortunately this graph is **very** misleading.
 
 this is because the data used to make it is complete rubbish, to quote the page the date is collected from: “**selected** earthquakes of general historic interest”.. These quakes have been hand picked as the most interesting ones, and the data has a HUGE bias towards newer earthquakes, so you can’t make any meaningful statistics out of it (except if you are making statistics of which earthquakes the guy who compiled this data finds “interesting”).
