@@ -9,9 +9,6 @@ http://web.archive.org/web/20090715000000*/erlendaakre.com
 
 ### JUN 23 2011
 
-Toodledo API
-	http://web.archive.org/web/20110810195539if_/http://www.erlendaakre.com:80/wp-content/uploads/2011/06/Toodledoo2html.txt
-
 Fedcon blog day 0,1,2,3,4,5
 	“I’d kill for that beard” — John Billingsley
 
