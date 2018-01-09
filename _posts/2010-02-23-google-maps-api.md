@@ -2,7 +2,7 @@
 layout: post
 title:  "Google maps API"
 categories: coding motorcycle
-tags: computer motorcycle software greenlanes api javascript offroad google maps waybackmachine startrek easter
+tags: computer motorcycle software greenlanes api javascript offroad google maps waybackmachine
 ---
 I was checking out Sven’s page, and found his [awesome map](http://www.qwerf.com/greenlaning/) of trails (“greenlanes”) in his neighborhood.
 
