@@ -73,7 +73,7 @@ add this into open office and make a graph of it:
 **Conclusion**
 This graph makes it look like earthquakes are running rampant, and you might have seen a very similar graph on the Internet (YouTube and other places), used by conspiracy cranks as an argument that earthquakes are increasing. But fortunately this graph is **very** misleading.
 
-The data to make it is complete rubbish, to quote the page they are collected from: “**selected** earthquakes of general historic interest”.. These quakes have been hand picked as the most interesting ones, and the data has a HUGE bias towards newer earthquakes, so you can’t make any meaningful statistics out of it (except if you are making statistics of which years the guy who compiled the data finds “interesting”).
+this is because the data used to make it is complete rubbish, to quote the page the date is collected from: “**selected** earthquakes of general historic interest”.. These quakes have been hand picked as the most interesting ones, and the data has a HUGE bias towards newer earthquakes, so you can’t make any meaningful statistics out of it (except if you are making statistics of which earthquakes the guy who compiled this data finds “interesting”).
 
 #### Update (Real data)
 
