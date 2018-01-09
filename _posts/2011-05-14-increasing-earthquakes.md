@@ -82,7 +82,7 @@ A scientist at the USGS was kind enough to send me a [datafile](/files/2011/merg
 **NOTE:** Unfortunately as this post is recovered from my old blog using the [WayBackMachine](http://web.archive.org) only the smaller resized images have been saved
 
 Frequency of earthquakes from 1900 to 2010:\\
-![Earthquakes 1900 to 2010](/images/2011-earthquake.jpg)
+![Earthquakes 1900 to 2010](/images/2011-earthquakes-all.png)
 
 Earthquakes by month:\\
 ![Earthquakes by month](/images/2011-earthquakes-month.png)
