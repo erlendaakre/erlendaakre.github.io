@@ -5,14 +5,10 @@ categories: gaming
 tags: computer hardware gaming waybackmachine
 ---
 
-NEXT UP FROM WAYBACK MACHINE:
 http://web.archive.org/web/20090715000000*/erlendaakre.com
 
+2011 - JUN 23
 
-2011 - MAY 21
+LAST: increasing earthquakes
 
-NOTE:: Looks like wayback machine also cached page2 (maybe others?) Use this when there are big gaps (e.g. May 2011 to June 2011)
-
-LAST: Majesty 2 review 
-
-NEXT: increasing earthquakes
+NEXT: Looking forward to E3	Looking forward to E3	 
