@@ -1,0 +1,193 @@
+package org.aakretech.trekwar2.server.utils;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.StringReader;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
+import org.xml.sax.SAXException;
+
+class Task {
+    String id;
+    String title;
+    String modified;
+    String completed;
+    
+    String folder;
+    String context;
+    String tag;
+    String status;
+    String priority;
+    String length;
+    String note;
+}
+
+public class Toodledoo2html {
+    // TODO you must get the 4 values below from Toodledo
+    private static String appID = "x";
+    private static String userID = "x";
+    private static String userPW = "x";
+    private static String applicationToken = "x";
+    
+    private static String fields = "folder,context,tag,status,priority,length,note"; // get these fields when downloading tasks
+    
+    private static String sessionToken;
+    private static String key;
+    
+    private static String toodledoTokenURL = "https://api.toodledo.com/2/account/token.php";
+    private static String toodledoGetTaskURL = "https://api.toodledo.com/2/tasks/get.php";
+    
+    public static void main(String[] args) {
+        sessionToken = getSessionToken(md5(userID+applicationToken));
+        key = md5(md5(userPW)+applicationToken+sessionToken);
+        ArrayList<Task> tasks = getTasks();
+        // do whatever to tasks
+    }
+    
+    private static ArrayList<Task> getTasks() {
+        try {
+            String data = "?key=" + key + ";fields=" + fields + ";f=xml";
+            
+            System.out.println("Getting tasks: " + toodledoGetTaskURL + data);
+            
+            URL url = new URL(toodledoGetTaskURL + data);
+            URLConnection connection = url.openConnection();
+            connection.setDoOutput(true);
+            
+            BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            StringBuilder xml = new StringBuilder();
+            String line = in.readLine();
+            while( line != null) {
+                System.out.println(line);
+                xml.append(line);
+                line = in.readLine();
+            }
+            in.close();
+            
+            ArrayList<Task> tasks = xmlToTasks(xml.toString());
+            
+            for(Task t : tasks) {
+                System.out.println(t.id + " " + t.title);
+            }
+            return tasks;
+            
+        } catch (MalformedURLException ex) {
+            System.out.println(ex);
+        } catch (IOException ioe) {
+            System.out.println(ioe);
+        }
+        return null;
+    }
+
+    private static ArrayList<Task> xmlToTasks(String xml) {
+        ArrayList<Task> taskList = new ArrayList<Task>();
+
+        try {
+            DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+            DocumentBuilder db = dbf.newDocumentBuilder();
+            Document doc = db.parse(new InputSource(new StringReader(xml)));
+
+            Element root = doc.getDocumentElement();
+
+            NodeList tasks = root.getElementsByTagName("task");
+            for (int i = 0; i < tasks.getLength(); i++) {
+                Element task = (Element) tasks.item(i);
+                
+                Task t = new Task();
+                t.id = getDomTextValue(task, "id");
+                t.title = getDomTextValue(task, "title");
+                t.modified = getDomTextValue(task, "modified");
+                t.completed = getDomTextValue(task, "completed");
+                
+                t.folder = getDomTextValue(task, "folder");
+                t.context = getDomTextValue(task, "context");
+                t.tag = getDomTextValue(task, "tag");
+                t.status = getDomTextValue(task, "status");
+                t.priority = getDomTextValue(task, "priority");
+                t.length = getDomTextValue(task, "length");
+                t.note = getDomTextValue(task, "note");
+                taskList.add(t);
+            }
+
+        } catch (ParserConfigurationException ex) {
+            Logger.getLogger(Toodledoo2html.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        catch(SAXException se) {
+            
+        }
+        catch(IOException ioe) {
+            
+        }
+
+        System.out.println("xmlToTasks got " + taskList.size() + " tasks");
+        return taskList;
+    }
+    
+    private static String getSessionToken(String signature) {
+        try {
+            String data = "?userid=" + userID + ";appid=" + appID + ";sig=" + signature + ";f=xml";
+            
+            System.out.println("Getting session token: " + toodledoTokenURL+data);
+            
+            URL url = new URL(toodledoTokenURL + data);
+            URLConnection connection = url.openConnection();
+            connection.setDoOutput(true);
+            
+            BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            String xml = in.readLine();
+            in.close();
+            String token = xml.substring(xml.indexOf("<token>")+7, xml.indexOf("</token>"));
+            return token;
+        } catch (MalformedURLException ex) {
+            System.out.println(ex);
+        }
+        catch(IOException ioe) {
+            System.out.println(ioe);
+        }
+        return "";
+    }
+
+    private static String md5(String input) {
+        try {
+            MessageDigest md = MessageDigest.getInstance("MD5");
+            md.update(input.getBytes());
+            
+            byte byteData[] = md.digest();
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < byteData.length; i++) {
+                sb.append(Integer.toString((byteData[i] & 0xff) + 0x100, 16).substring(1));
+            }
+            return sb.toString();
+        } catch (NoSuchAlgorithmException nse) {
+            System.err.println("ERROR. MD5 ALGORITHM NOT FOUND");
+            return "";
+        }
+    }
+    
+    public static String getDomTextValue(Element element, String tag) {
+        if (element != null) {
+            NodeList nl = element.getElementsByTagName(tag);
+            if (nl != null && nl.getLength() > 0) {
+                Element el = (Element) nl.item(0);
+                if(el != null && el.getFirstChild() != null) {
+                    return el.getFirstChild().getNodeValue();
+                }
+            }
+        }
+        return "";
+    }
+}
