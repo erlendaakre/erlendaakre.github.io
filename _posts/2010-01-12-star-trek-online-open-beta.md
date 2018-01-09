@@ -2,7 +2,7 @@
 layout: post
 title: "Star Trek Online open beta"
 categories: gaming 
-tags: gaming star-trek mmo andorian waybackmachine
+tags: gaming startrek mmo andorian waybackmachine
 ---
 
 Yay, tomorrow Star Trek Online goes into open beta!

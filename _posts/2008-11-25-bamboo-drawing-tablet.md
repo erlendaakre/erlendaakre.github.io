@@ -2,7 +2,7 @@
 layout: post
 title: "Bamboo drawing tablet"
 categories: misc
-tags: art bamboo drawing tablet lighthouse bamboo-one photoshop ship star-trek reliant waybackmachine
+tags: art bamboo drawing tablet lighthouse bamboo-one photoshop ship startrek reliant waybackmachine
 ---
 
 ![Bamboo one](/images/2008-bamboo-one.jpg)

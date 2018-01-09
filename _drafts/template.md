@@ -16,13 +16,3 @@ NOTE:: Looks like wayback machine also cached page2 (maybe others?) Use this whe
 LAST: Majesty 2 review 
 
 NEXT: increasing earthquakes
-
-
-
-OLD MISSED ONES
-================
-
-
-http://web.archive.org/web/20090906152312/http://www.erlendaakre.com:80/2009/645/comic-contest.html
-
- 

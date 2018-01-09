@@ -2,7 +2,7 @@
 layout: post
 title: "Star Trek Online update"
 categories: gaming 
-tags: gaming star-trek mmo bug andorian waybackmachine
+tags: gaming startrek mmo bug andorian waybackmachine
 ---
 
 So, beta is over, and I’ve made it to Commander level (not had much time to play). So far the game is pretty fun, but I’ll reserve judgment until I’ve hit endgame.
