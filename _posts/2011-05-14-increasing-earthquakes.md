@@ -63,7 +63,7 @@ public class Test {
     }
 }
 ```
-data text file: [quakes.txt](/files/2011/quakes.txt) (program input)
+data text file: [quakes.txt](/files/2011/quakes.txt) (program input)\\
 csv result file: [quakes.csv](/files/2011/quakes.csv) (program output)
 
 add this into open office and make a graph of it:
