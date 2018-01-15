@@ -9,7 +9,7 @@ http://web.archive.org/web/20090715000000*/erlendaakre.com
 
 ### JUN 23 2011
 
-Fedcon blog day 0,1,2,3,4,5
+Fedcon blog day 2,3,4,5
 	“I’d kill for that beard” — John Billingsley
 
 Pentecost programming
