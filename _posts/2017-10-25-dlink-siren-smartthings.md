@@ -9,7 +9,7 @@ I just got my D-Link DCH-Z510 Siren and trying to set up a rudimentary alarm sys
 **NOTE:** If you are trying to get this siren working and have not connected it yet, you might want to skip the first step
 
 ### First step
-Impatiently connect plug in the siren, discover new devices. Smartthings discovers it as "Aeon Labs Siren (Gen 5)".
+Impatiently connect the siren, discover new devices. Smartthings discovers it as "Aeon Labs Siren (Gen 5)".
 
 In the app I can turn it on and off, it makes a lot of sound (well, 110 decibel). 
 However going into it's settings I'm unable to change the siren sound, no matter which one it's set to (1-5) it sounds the same.
@@ -20,8 +20,9 @@ Grab that code and fire up the [SmartThings IDE](https://graph.api.smartthings.c
 
 Now since we have already connected it, let's exclude it, then add it again with the correct device handler.
 Go to the device on the app, under Things, select it, click settings (cog icon) and remove. To complete the exclude double tap the small button at the back of the siren (use a toothpick or similar).
+
 **NOTE:** The siren has an anti-tamper function, removing the back cover will be loud and surprising :D
 
-### Third step
-*To be continued...*
+### Update
+I don't know if my siren or me myself is cursed, but after faffing about for way too long I gave up on getting the custom device handler to work. It does however work great as a siren using the generic "Aeon Labs Siren (Gen 5)" device type, this means it only does the siren sound but that's really all I'm looking for now as I'm setting up a google home anounce server locally to do any other notification.
 
