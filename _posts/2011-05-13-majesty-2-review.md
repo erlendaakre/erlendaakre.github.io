@@ -5,7 +5,7 @@ categories: gaming
 tags: gaming review majesty-2 majesty steam strategy sean-connery simulation waybackmachine
 ---
 
-I recently got Majesyt 2 on steam. And to sum it up in 1 sentence: “Majesty 2 sucks!”
+I recently got Majesty 2 on steam. And to sum it up in 1 sentence: “Majesty 2 sucks!”
 
 Majesty 2 is a RTS game which calls itself a “kingdom simulator” with RPG elements.  You build structures, but never control the units directly. The units live their own lives, level up, buy gear at the blacksmith and generally just go around like little tiny virtual idiots.
 
