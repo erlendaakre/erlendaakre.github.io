@@ -7,7 +7,7 @@ tags: dnd 5e map leilon forgotten-realms phandalin sword-coast lmop
 
 Are your players heading west on the Triboar trail, leaving Phandalin behind?
 
-Here is a map of Leilon, moved closer to the sea to make it a coastal town
+Here is a map of [Leilon](https://forgottenrealms.fandom.com/wiki/Leilon), moved closer to the sea to make it a coastal town
 
 ### Player Version
 ![Leilon Map map](/images/2021-leilon_player.jpg)
@@ -22,6 +22,10 @@ It's economy consists of mining (copper, nickel, silver) and fishing. Most of th
 - The Mere of dead men is to the south, a swamp with Lizardfolk and other challenges for a low level (level 3-6)
 - No deepwater port, barges have to move goods out to visiting ships
 - There are no city walls but part of the town is protected by wooden palisades and an army of around 200 soldiers.
+- An abandoned wizard tower (The high tower of Thalivar) has enticed adventurers for years
+
+### High Tower of Thalivar
+This tower is protected by a petrification ward, anyone getting within 200 feet will instantly start turning to stone
 
 ### Points of Interest
 
