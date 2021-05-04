@@ -2,7 +2,7 @@
 layout: post
 title:  "Conyberry map (Forgotten Realms)"
 categories: dnd
-tags: dnd 5e map conyberry forgotten-realms phandalin
+tags: dnd 5e map conyberry forgotten-realms phandalin sword-coast lmop
 ---
 
 After a nice 3.5 year break from blogging I've decided to put up some of the stuff I've been making for Dungeonds & Dragons.
