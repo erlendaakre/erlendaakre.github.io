@@ -10,10 +10,10 @@ Are your players heading west on the Triboar trail, leaving Phandalin behind?
 Here is a map of [Leilon](https://forgottenrealms.fandom.com/wiki/Leilon), moved closer to the sea to make it a coastal town
 
 ### Player Version
-![Leilon Map map](/images/2021-leilon_player.jpg)
+[![Leilon Map map](/images/2021-leilon_player.jpg)](/images/2021-leilon_player.jpg)
 
 ### DM Version
-[![Leilon Map map](/images/2021-leilon_dm.jpg)](/images/2021-leilon_dm.jp)
+[![Leilon Map map](/images/2021-leilon_dm.jpg)](/images/2021-leilon_dm.jpg)
 
 ### Info
 A smaller town with a population of 3000, being ruled by Pelindar Filmarya and part of the Lords Alliance.

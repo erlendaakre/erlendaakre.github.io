@@ -12,4 +12,4 @@ I'm currently running a campaign that started with Lost Mines of Phandelver in P
 ### Conyberry
 Not super interesting, but if your party is passing through [Conyberry](https://forgottenrealms.fandom.com/wiki/Conyberry) on the Triboar trail, enjoy this small map of this quaint little farming community
 
-![Conyberry map](/images/2021-conyberry.jpg)
+[![Conyberry map](/images/2021-conyberry.jpg)](/images/2021-conyberry.jpg)
