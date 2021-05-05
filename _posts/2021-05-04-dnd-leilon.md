@@ -13,7 +13,7 @@ Here is a map of [Leilon](https://forgottenrealms.fandom.com/wiki/Leilon), moved
 ![Leilon Map map](/images/2021-leilon_player.jpg)
 
 ### DM Version
-![Leilon Map map](/images/2021-leilon_dm.jpg)
+[![Leilon Map map](/images/2021-leilon_dm.jpg)](/images/2021-leilon_dm.jp)
 
 ### Info
 A smaller town with a population of 3000, being ruled by Pelindar Filmarya and part of the Lords Alliance.
