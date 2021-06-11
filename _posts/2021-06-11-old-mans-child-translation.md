@@ -89,73 +89,108 @@ Title: Evoked sorrowfull through the forest
   
   <tr>
     <td>
+<p>
 Tårer faller som tungt høstregn, i et kaldt desemberlandskap.
 Tårer for min stolthet og min verdighet.
-
+</p><p>
 På min ferd inn i ensomheten, inn i skogens mørke.
 Til mine sorgers opphav jeg går, i skam.
-
+</p><p>
 Jeg fylles av satans makter, og en dyster harmfull fred.
 I et kall fra hans land, jeg skal synke i dødens vann,
 og fare med strømmene mot dødens land.
-
+</p><p>
 Hun slikker mine kinn, mens døden lokker kan jeg skimte hans rike.
 Triste øyne og spake stemmer, følg min dragning mot gravens kalde mørke.
-
+</p><p>
 Tårer faller som tungt høstregn, i et kaldt desemberlandskap.
 Tårer for min stolthet og min verdighet.
-
+</p><p>
 Så i mørket skal vi atter reises for krig mot lyset,
 vi skal herje, jagende vårt bytte.
 Som en storm skal vi rive i filler hans rike,
 under mørkets klinge skal vi dø.
-
+</p><p>
 I en tapper krig, aldri stride mere, kom drikk mine tårer. Og mot din grotte vandre. 
-
+</p><p>
 I din grotte vi skal rå.
-
+</p><p>
 På min ferd inn i ensomheten, inn imot skogens mørke.
 Til mine sorgers opphav jeg går, med hat.
-
+</p><p>
 Hun fuktet mine lepper, mens døden lokker har jeg nådd ditt rike.
-
+</p><p>
 Triste øyne og spake stemmer,
 følg min dragning mot gravens kalde mørke.
+</p>
     </td>
     
     <td>
+<p>
 Tears fall like heavy autumn rain, in a cold December landscape.
 Tears for my pride and my dignity.
-
+</p><p>
 On my journey into loneliness, into the darkness of the forest.
 To the origin of my sorrows I go, in shame.
-
+</p><p>
 I am filling with the powers of Satan, and a dreary, embittered peace.
 In a call from his land, I will sink into the water of death,
 and venture with the currents towards the land of death.
-
+</p><p>
 She licks my cheeks, while death entices I can glimpse his kingdom.
 Sad eyes and docile voices, follow my attraction to the cold darkness of the grave.
-
+</p><p>
 Tears fall like heavy autumn rain, in a cold December landscape.
 Tears for my pride and my dignity.
-
+</p><p>
 So in the darkness we shall rise again for war against the light,
 we will ravage, chasing our prey.
 Like a storm we shall tear his kingdom to pieces,
 under the blade of darkness we shall die.
-
+</p><p>
 In a brave war, never battling again, come drink my tears. And wander towards your cave.
-
+</p><p>
 In your cave we will reign.
-
+</p><p>
 On my journey into loneliness, into the darkness of the forest.
 To the origin of my sorrows I go, with hatred.
-
+</p><p>
 She moistened my lips, while death entices I have reached your kingdom.
-
+</p><p>
 Sad eyes and docile voices,
 follow my pull towards the cold darkness of the gave.
+</p>
 </td>
   </tr>
 </table>
+
+
+### Og Jeg Iakttok Dødsrikets Inntog (In The Shades Of Life)
+Title: And I watched the arrival of the Realm of the Dead
+
+<table style="width:100%">
+  <tr>
+    <th>Norwegian</th>
+    <th>English</th>
+  </tr>
+  
+  <tr>
+    <td>
+<pre>
+Kun opplyst av kveldsstjernen.
+Ventende uten kjærlighet, uten varme død skal komme.
+Så spill ut all mjød og legg fjellene øde.
+Måtte deres ruiner bli meg en verdig grav.
+</pre>
+</td>
+<td>
+<pre>
+Only illuminated by the evening star
+Waiting without love, without heat, death will come
+So pour out all the mead and lay the mountains desolate
+May their ruins be a worthy grave to me 
+</pre>
+</td>
+  </tr>
+</table>
+
