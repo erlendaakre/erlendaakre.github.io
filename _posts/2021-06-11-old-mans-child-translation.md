@@ -176,20 +176,20 @@ Title: And I watched the arrival of the Realm of the Dead
   
   <tr>
     <td valign="top">
-<pre>
+<p>
 Kun opplyst av kveldsstjernen.
 Ventende uten kjærlighet, uten varme død skal komme.
 Så spill ut all mjød og legg fjellene øde.
 Måtte deres ruiner bli meg en verdig grav.
-</pre>
+</p>
 </td>
 <td valign="top">
-<pre>
+<p>
 Only illuminated by the evening star
 Waiting without love, without heat, death will come
 So pour out all the mead and lay the mountains desolate
 May their ruins be a worthy grave to me 
-</pre>
+</p>
 </td>
   </tr>
 </table>
