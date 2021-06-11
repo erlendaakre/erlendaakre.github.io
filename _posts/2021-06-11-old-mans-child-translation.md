@@ -25,7 +25,7 @@ Title: The journey towards the enemies lands
   </tr>
   
   <tr>
-    <td>
+    <td valign="top">
 Tiden har kommet
 Nå skal tronen bli vår
 Fylt med vårt hat
@@ -50,7 +50,7 @@ Den sterke skal stå
 Med ditt blod på sin hånd
     </td>
     
-    <td>
+    <td valign="top">
 The time has come
 Now the throne shall be ours
 Filled with our hatred
@@ -88,7 +88,7 @@ Title: Evoked sorrowfull through the forest
   </tr>
   
   <tr>
-    <td>
+    <td valign="top">
 <p>
 Tårer faller som tungt høstregn, i et kaldt desemberlandskap.
 Tårer for min stolthet og min verdighet.
@@ -125,7 +125,7 @@ følg min dragning mot gravens kalde mørke.
 </p>
     </td>
     
-    <td>
+    <td valign="top">
 <p>
 Tears fall like heavy autumn rain, in a cold December landscape.
 Tears for my pride and my dignity.
@@ -175,7 +175,7 @@ Title: And I watched the arrival of the Realm of the Dead
   </tr>
   
   <tr>
-    <td>
+    <td valign="top">
 <pre>
 Kun opplyst av kveldsstjernen.
 Ventende uten kjærlighet, uten varme død skal komme.
@@ -183,7 +183,7 @@ Så spill ut all mjød og legg fjellene øde.
 Måtte deres ruiner bli meg en verdig grav.
 </pre>
 </td>
-<td>
+<td valign="top">
 <pre>
 Only illuminated by the evening star
 Waiting without love, without heat, death will come
