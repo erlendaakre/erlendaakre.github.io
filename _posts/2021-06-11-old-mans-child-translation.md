@@ -26,53 +26,53 @@ Title: The journey towards the enemies lands
   
   <tr>
     <td valign="top">
-Tiden har kommet
-Nå skal tronen bli vår
-Fylt med vårt hat
-De skal slikke sine sår
-I kaos og sorger
-Ligger alle fortapt
-Nå er din tid forbi
-Alt det som var
-Fra gammel tid tilbake
-Skal vise oss vei
-Mot mørket vi vandrer
-Dit hvor tåken fører
-Vi går imot sorgenes strømmer
-Vi kriger om makt og alt som skal bli
-Om ære og død vi alle mann drømmer
-Jorden er vår blodet skal strømme
-Ferden mot fienden's land går i takt med døden
-Mot mørket vi vandrer dit hvor tåken fører
-Når alt er forbi
-Og tomheten seirer
-Den sterke skal stå
-Med ditt blod på sin hånd
+<p>Tiden har kommet</p><p>
+Nå skal tronen bli vår</p><p>
+Fylt med vårt hat</p><p>
+De skal slikke sine sår</p><p>
+I kaos og sorger</p><p>
+Ligger alle fortapt</p><p>
+Nå er din tid forbi</p><p>
+Alt det som var</p><p>
+Fra gammel tid tilbake</p><p>
+Skal vise oss vei</p><p>
+Mot mørket vi vandrer</p><p>
+Dit hvor tåken fører</p><p>
+Vi går imot sorgenes strømmer</p><p>
+Vi kriger om makt og alt som skal bli</p><p>
+Om ære og død vi alle mann drømmer</p><p>
+Jorden er vår blodet skal strømme</p><p>
+Ferden mot fienden's land går i takt med døden</p><p>
+Mot mørket vi vandrer dit hvor tåken fører</p><p>
+Når alt er forbi</p><p>
+Og tomheten seirer</p><p>
+Den sterke skal stå</p><p>
+Med ditt blod på sin hånd</p>
     </td>
     
     <td valign="top">
-The time has come
-Now the throne shall be ours
-Filled with our hatred
-They will lick their wounds
-In chaos and sorrows
-Everyone lies doomed
-Now your time is past
-All that was
-From ancient times
-Will show us the way
-Towards the darkness, we wander
-Where the fog leads
-We go against the currents of sorrow
-We fight for power and everything that will be
-Of honour and death we all dream
-The earth is ours, the blood will flow
-The journey towards the enemy's land keeps pace with death
-Towards darkness, we wander where the fog leads
-When everything is passed
-And emptiness’ victorious
-The strong will stand
-With your blood on their hand
+<p>The time has come</p><p>
+Now the throne shall be ours</p><p>
+Filled with our hatred</p><p>
+They will lick their wounds</p><p>
+In chaos and sorrows</p><p>
+Everyone lies doomed</p><p>
+Now your time is past</p><p>
+All that was</p><p>
+From ancient times</p><p>
+Will show us the way</p><p>
+Towards the darkness, we wander</p><p>
+Where the fog leads</p><p>
+We go against the currents of sorrow</p><p>
+We fight for power and everything that will be</p><p>
+Of honour and death we all dream</p><p>
+The earth is ours, the blood will flow</p><p>
+The journey towards the enemy's land keeps pace with death</p><p>
+Towards darkness, we wander where the fog leads</p><p>
+When everything is passed</p><p>
+And emptiness’ victorious</p><p>
+The strong will stand</p><p>
+With your blood on their hand</p>
 </td>
   </tr>
 </table>
@@ -177,17 +177,17 @@ Title: And I watched the arrival of the Realm of the Dead
   <tr>
     <td valign="top">
 <p>
-Kun opplyst av kveldsstjernen.
-Ventende uten kjærlighet, uten varme død skal komme.
-Så spill ut all mjød og legg fjellene øde.
+Kun opplyst av kveldsstjernen.</p><p>
+Ventende uten kjærlighet, uten varme død skal komme.</p><p>
+Så spill ut all mjød og legg fjellene øde.</p><p>
 Måtte deres ruiner bli meg en verdig grav.
 </p>
 </td>
 <td valign="top">
 <p>
-Only illuminated by the evening star
-Waiting without love, without heat, death will come
-So pour out all the mead and lay the mountains desolate
+Only illuminated by the evening star</p><p>
+Waiting without love, without heat, death will come</p><p>
+So pour out all the mead and lay the mountains desolate</p><p>
 May their ruins be a worthy grave to me 
 </p>
 </td>
