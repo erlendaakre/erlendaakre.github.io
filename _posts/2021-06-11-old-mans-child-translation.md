@@ -2,7 +2,7 @@
 layout: post
 title:  "Old Man's Child English Translation"
 categories: music
-tags: music metal black-metal old-mans-child translation norwegian
+tags: music metal lyrics black-metal old-mans-child translation norwegian
 ---
 
 I was listening to some music with my wife, which, in turn, lead to looking up lyrics for some of the songs, and as it turns out finding English translations for old Norwegian black metal songs can be quite challenging.
@@ -11,7 +11,7 @@ The ones you do find, however, are made by putting the Norwegian lyrics (with ty
 
 This can cause some spectacularly bad translations as `skal` means shall/will, but `skål` means cheers, `dø' means "to die" and `do` means toilet, etc..
 
-So without further ado, here are the 3 Norwegian songs by Old Man's Child, translated into somewhat intelligible English:
+So without further ado, here are the only 3 Norwegian songs by Old Man's Child, translated into somewhat intelligible English:
 
 ![Old Man's Child](/images/2021-old-mans-child.jpg)]
 
