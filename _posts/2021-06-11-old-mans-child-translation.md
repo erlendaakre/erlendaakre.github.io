@@ -153,7 +153,7 @@ In a brave war, never battling again, come drink my tears. And wander towards yo
 In your cave we will reign.
 </p><p>
 On my journey into loneliness, into the darkness of the forest.
-To the origin of my sorrows I go, with hatred.
+To the origin of my sorrows I go, with hatred.<br/><br/>
 </p><p>
 She moistened my lips, while death entices I have reached your kingdom.
 </p><p>
