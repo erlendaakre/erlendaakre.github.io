@@ -185,10 +185,10 @@ Måtte deres ruiner bli meg en verdig grav.
 </td>
 <td valign="top">
 <p>
-Only illuminated by the evening star</p><p>
-Waiting without love, without heat, death will come</p><p>
-So pour out all the mead and lay the mountains desolate</p><p>
-May their ruins be a worthy grave to me 
+Only illuminated by the evening star.</p><p>
+Waiting without love, without heat, death will come.<br/><br/></p><p>
+So pour out all the mead and lay the mountains desolate.</p><p>
+May their ruins be a worthy grave to me.
 </p>
 </td>
   </tr>
