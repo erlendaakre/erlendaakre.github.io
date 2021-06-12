@@ -128,7 +128,7 @@ følg min dragning mot gravens kalde mørke.
     <td valign="top">
 <p>
 Tears fall like heavy autumn rain, in a cold December landscape.
-Tears for my pride and my dignity.
+  Tears for my pride and my dignity.</br>
 </p><p>
 On my journey into loneliness, into the darkness of the forest.
 To the origin of my sorrows I go, in shame.
