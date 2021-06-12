@@ -138,10 +138,10 @@ In a call from his land, I will sink into the water of death,
 and venture with the currents towards the land of death.
 </p><p>
 She licks my cheeks, while death entices I can glimpse his kingdom.
-Sad eyes and docile voices, follow my attraction to the cold darkness of the grave.
+Sad eyes and docile voices, follow my attraction to the cold darkness of the grave.<br/><br/>
 </p><p>
 Tears fall like heavy autumn rain, in a cold December landscape.
-Tears for my pride and my dignity.
+Tears for my pride and my dignity.<br/><br/>
 </p><p>
 So in the darkness we shall rise again for war against the light,
 we will ravage, chasing our prey.
