@@ -3,7 +3,7 @@ title: Erlends semi-curated nonsense
 tagline: Erlends personal blog
 description: A blog containing sporadic personal ramblings, coding, D&D and other random junk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://erlendaakre.github.io" # the base hostname & protocol for your site
+url: "https://erlendaakre.github.io" # the base hostname & protocol for your site
 author: erlendaakre
 permalink: /:year/:month/:day/:title/
 
