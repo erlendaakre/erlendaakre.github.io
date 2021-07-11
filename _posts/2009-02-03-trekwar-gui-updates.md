@@ -4,7 +4,7 @@ title:  "Trekwar GUI updates"
 categories: coding gamedev
 tags: computer gaming trekwar gamedev software java waybackmachine startrek
 ---
-Recently much of my spare time programming has gone to giving the [Trekwar client](http://www.trekwar.org) a graphical overhaul.
+Recently much of my spare time programming has gone to giving the [Trekwar client](https://github.com/erlendaakre/trekwar) a graphical overhaul.
 
 Now I’ve managed to get most of what I broke, working again (Research and Starsystem Control), and I’ve added a glasspane that shows up and prevents the clicking of buttons (and thus creating a weird state of the client) while each tick is being processed by the server.
 
