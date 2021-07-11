@@ -4,7 +4,7 @@ title:  "The need for speed"
 categories: coding gamedev
 tags: computer gaming trekwar gamedev software java waybackmachine startrek
 ---
-I finally got around to implement the new ship system for the [Trekwar](http://www.trekwar.org) game.
+I finally got around to implement the new ship system for the [Trekwar](https://github.com/erlendaakre/trekwar) game.
 
 Ships are no longer static objects with fixed attributes (weapon, shields, armor, etc..).
 
