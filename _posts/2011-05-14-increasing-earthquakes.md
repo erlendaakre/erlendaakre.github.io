@@ -12,7 +12,8 @@ I just found myself in a debate where the opposition claims that earthquakes are
 **How many earthquakes are there?**
 I went to the United States Geological Survey for the raw data, they have a pretty big list named “selected earthquakes of general historic interest” (6.0+) earthquakes recorded (ordered by magnitude, strongest quake first) which seems to be used often to support the argument of increasing earthquakes.
 
-[https://web.archive.org/web/20160117122306/http://earthquake.usgs.gov/earthquakes/world/historical_mag_big.php](http://earthquake.usgs.gov/earthquakes/world/historical_mag_big.php) (Archived)
+[http://earthquake.usgs.gov/earthquakes/world/historical_mag_big.php](https://web.archive.org/web/20160117122306/http://earthquake.usgs.gov/earthquakes/world/historical_mag_big.php) (Archived)
+
 
 I then made a small computer program to parse the text and output it in csv format:
 
