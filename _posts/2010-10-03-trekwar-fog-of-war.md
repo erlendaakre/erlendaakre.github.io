@@ -5,7 +5,7 @@ categories: coding gamedev
 tags: computer gaming trekwar gamedev software fog-of-war java waybackmachine startrek 
 ---
 
-It’s been too long since I got any programming done on my Star Trek game [Trekwar](http://www.trekwar.org), but today I managed to implement animation support on the main map, as well as get the sensor system and fog of war working (still needs a bit of tweaking):
+It’s been too long since I got any programming done on my Star Trek game [Trekwar](https://github.com/erlendaakre/trekwar), but today I managed to implement animation support on the main map, as well as get the sensor system and fog of war working (still needs a bit of tweaking):
 
 ![Trekwar fog of war](/images/2010-trekwar-fow.jpg)
 
