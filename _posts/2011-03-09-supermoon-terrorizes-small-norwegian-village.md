@@ -19,7 +19,7 @@ The moon’s effect on the tides is around 60-70% and the sun makes up 40-30%, s
 
 ![moon gravity change](/images/2011-moon-gravity.gif)
 
-**Update:** It seems the formula I used above is the "shared" gravitational force between the earth and the moon, [Phil plait comes up with](https://www.discovermagazine.com/the-sciences/no-the-supermoon-didnt-cause-the-japanese-earthquake/) a maximum 50% increase in the moons gravitational effect on the earth, which is a more useful number. Also he’s an astronomer, so I’d take his word over mine.. On anything but Star Trek trivia :)
+**Update:** It seems the formula I used above is the "shared" gravitational force between the earth and the moon, [Phil Plait came up with](https://www.discovermagazine.com/the-sciences/no-the-supermoon-didnt-cause-the-japanese-earthquake/) a maximum 50% increase in the moons gravitational effect on the earth, which is a more useful number. Also he’s an astronomer, so I’d take his word over mine.. On anything but Star Trek trivia :)
 
 When the moon is at it’s closest and at the same time line up with the sun, we get what’s called the Perigean spring time. In other words, a big ass tide :)
 
