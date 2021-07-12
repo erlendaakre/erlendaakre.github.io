@@ -5,7 +5,7 @@ description: A blog containing sporadic personal ramblings, coding, D&D and othe
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://erlendaakre.github.io" # the base hostname & protocol for your site
 author: erlendaakre
-permalink: /title/
+permalink: /:title/
 
 # other links
 twitter_username: erlendaakre
