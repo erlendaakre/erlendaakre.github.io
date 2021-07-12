@@ -14,3 +14,4 @@ gem "jekyll-paginate"
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-sitemap
