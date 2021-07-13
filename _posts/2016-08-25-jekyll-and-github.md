@@ -15,4 +15,4 @@ I also always have full controll of the data, and since the blog lives on github
 
 **Update: 2017-10-25**
 
-Been over a year since I made this post, and in a fit of productivity sparked by reading my friends [awesome blog](http://60chequersavenue.net) I've decided to actually start using it, and using the WayBack machine to resurrect some blog posts from my old site, putting them up using the [waybackmachine](tag/#waybackmachine) tag
+Been over a year since I made this post, and in a fit of productivity sparked by reading my friends [awesome blog](http://60chequersavenue.net) I've decided to actually start using it, and using the WayBack machine to resurrect some blog posts from my old site, putting them up using the [waybackmachine](/tag/#waybackmachine) tag
