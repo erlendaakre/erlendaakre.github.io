@@ -5,7 +5,7 @@ categories: dnd
 tags: dnd 5e map mere-of-dead-men swamp leilon forgotten-realms phandalin sword-coast lmop
 ---
 
-Here is my take on the [Mere of Dead men](https://forgottenrealms.fandom.com/wiki/Mere_of_Dead_Men), this swamp is set just south of the [Leilon map](/2021/05/04/dnd-leilon/) I made.
+Here is my take on the [Mere of Dead men](https://forgottenrealms.fandom.com/wiki/Mere_of_Dead_Men), this swamp is set just south of the [Leilon map](/dnd-leilon/) I made.
 
 This map is all about exploration and each hex should be about an hour of travel, and I allowed 8 hexes of movement per day. This might be a bit slow for some in which case just increase it to 12 hexes per day.
 
