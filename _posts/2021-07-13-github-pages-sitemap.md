@@ -30,7 +30,6 @@ layout: null
       </url>
     {% endfor %}
 </urlset>
-{"mode":"full","isActive":false}
 ```
 {% endraw %}
 
