@@ -9,6 +9,7 @@ I was trying to get the jekyll-sitemap plugin to work on github pages, but I cou
 
 So here is a very simple jekyll template that will generate a sitemap.xml file from your blog posts (not pages!)
 
+{% raw %}
 ```xml
 ---
 layout: null
@@ -31,5 +32,6 @@ layout: null
 </urlset>
 {"mode":"full","isActive":false}
 ```
+{% endraw %}
 
 And here is the resulting [sitemap.xml](/sitemap.xml) file.
