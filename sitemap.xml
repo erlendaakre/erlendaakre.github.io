@@ -1,5 +1,6 @@
 ---
 layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
@@ -11,9 +12,8 @@ layout: null
     {% for post in site.posts %}
       <url>
         <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-        <lastmod>2021-07-13T08:25:16+00:00</lastmod>
+        <lastmod>{{ post.date | date_to_rfc822 }}</lastmod>
         <priority>0.80</priority>
       </url>
     {% endfor %}
 </urlset>
-{"mode":"full","isActive":false}
