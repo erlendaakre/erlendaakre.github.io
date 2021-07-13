@@ -31,9 +31,6 @@ kramdown:
 category_dir: category/
 tag_dir: tag/
 
-plugins:
-  - jekyll-sitemap
-
 # excerpt
 excerpt_separator: "\n\n\n\n"
 
