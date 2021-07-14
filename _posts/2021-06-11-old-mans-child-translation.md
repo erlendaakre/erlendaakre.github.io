@@ -2,6 +2,7 @@
 layout: post
 title:  "Old Man's Child English Translation"
 categories: music
+description: English translation of the Norwegian songs by Old Man's Child
 tags: music metal lyrics black-metal old-mans-child translation norwegian
 ---
 
