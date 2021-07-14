@@ -1,6 +1,6 @@
 # Site settings
 title: Erlends semi-curated nonsense
-tagline: Erlends personal blog
+#tagline: D&D - coding - other weird stuff
 description: A blog containing sporadic personal ramblings, coding, D&D and other random junk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://erlendaakre.github.io" # the base hostname & protocol for your site
