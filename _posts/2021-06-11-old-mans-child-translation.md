@@ -51,7 +51,7 @@ Den sterke skal stå</p><p>
 Med ditt blod på sin hånd</p>
     </td>
     
-    <td valign="top">
+<td valign="top">
 <p>The time has come</p><p>
 Now the throne shall be ours</p><p>
 Filled with our hatred</p><p>
@@ -75,6 +75,7 @@ And emptiness’ victorious</p><p>
 The strong will stand</p><p>
 With your blood on their hand</p>
 </td>
+
   </tr>
 </table>
 
@@ -89,7 +90,7 @@ Title: Evoked sorrowfull through the forest
   </tr>
   
   <tr>
-    <td valign="top">
+<td valign="top">
 <p>
 Tårer faller som tungt høstregn, i et kaldt desemberlandskap.
 Tårer for min stolthet og min verdighet.
@@ -124,9 +125,9 @@ Hun fuktet mine lepper, mens døden lokker har jeg nådd ditt rike.
 Triste øyne og spake stemmer,
 følg min dragning mot gravens kalde mørke.
 </p>
-    </td>
-    
-    <td valign="top">
+</td>
+
+<td valign="top">
 <p>
 Tears fall like heavy autumn rain, in a cold December landscape.
 Tears for my pride and my dignity.<br/><br/>
