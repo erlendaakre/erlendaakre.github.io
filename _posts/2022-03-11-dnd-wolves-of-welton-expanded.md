@@ -23,7 +23,8 @@ I'm currently running the popular Wolves of Welton D&D one-shot, and I've made s
 #### Foreground layer
 [![Wolves of Welton Wolf Cave Trees](/images/2022-welton-cave-fg.webp)](/images/2022-welton-cave-fg.webp)
 
-
+#### Foundry vtt map
+TODO: add foundry map with walls and lighting
 
 ### Welton inn
 TODO
