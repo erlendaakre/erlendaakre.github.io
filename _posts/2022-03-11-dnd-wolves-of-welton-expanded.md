@@ -15,6 +15,16 @@ I'm currently running the popular Wolves of Welton D&D one-shot, and I've made s
 ### Village of Welton close up
 [![Wolves of Welton map](/images/2022-welton-village.jpg)](/images/2022-welton-village.jpg)
 
+### Wolf Cave
+
+#### Background layer
+[![Wolves of Welton Wolf Cave](/images/2022-welton-cave-bg.webp)](/images/2022-welton-cave-bg.webp)
+
+#### Foreground layer
+[![Wolves of Welton Wolf Cave Trees](/images/2022-welton-cave-fg.webp)](/images/2022-welton-cave-fg.webp)
+
+
+
 ### Welton inn
 TODO
 
