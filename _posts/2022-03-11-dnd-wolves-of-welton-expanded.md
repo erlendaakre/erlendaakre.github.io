@@ -7,7 +7,7 @@ tags: dnd 5e map wolves-of-welton welton
 
 I'm currently running the popular Wolves of Welton D&D one-shot, and I've made some updates to it, mainly redoing the maps locations there and I plan to add further locations in the future to support more exploration and more quests in the area to increase the adventure play time up from a 1-2 sessions to about 5-6 sessions.
 
-:warning: **This is currently a work in progress**
+**NOTE: This is currently a work in progress**
 
 ### Map of Welton area
 [![Wolves of Welton area map](/images/2022-welton-map.jpg)](/images/2022-welton-map.jpg)
