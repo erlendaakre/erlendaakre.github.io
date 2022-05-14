@@ -6,11 +6,11 @@ description: English translation of the Norwegian song Hufsa by Arcturus
 tags: music metal lyrics black-metal arcturus translation norwegian
 ---
 
-Again, like with [Old Mans Child](/old-mans-child-translation), I was unable to find a decent english translation of Hufsa by Arcturus that wasn't a hot mess by google translate, so here ya go Internet:
+Again, like with [Old Mans Child](/old-mans-child-translation), I was unable to find a decent english translation of Hufsa by Arcturus that wasn't a hot mess by google translate so here ya go:
 
 ![Arcturus Hufsa](/images/2022-hufsa.jpg)]
 
-\* Hufsa is the Norwegian name for [The Groke](https://en.wikipedia.org/wiki/The_Groke), a tragic character from the Finnish Moomin childrens show
+\* Hufsa is the Norwegian name for [The Groke](https://en.wikipedia.org/wiki/The_Groke), a tragic character from the Finnish childrens TV show Moomin
 
 ### Hufsa* (Sideshow Symphonies)
 Title: The Groke
