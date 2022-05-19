@@ -36,7 +36,7 @@ Title: The Groke
 <p>Evig vinter er hva jeg er</p>
 <p>Du er redd når jeg er nær</p>
 <p>Sjelen søker evig varme</p>
-<p>Allt den får en ensom harme</p>
+<p>Allt den får er ensom harme</p>
 <p>Markens grøde for all tid øde</p>
 <p>Der jeg setter mitt spor</p>
 <p>Min sorg et større enn ord</p>
